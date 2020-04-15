@@ -3,9 +3,9 @@ import time
 import numpy
 
 #convert the file output back to a dictionary of lists
-def readDistanceListsFromFile(filename):
+def readDistanceListsFromFile(filename, word):
     distanceLists = {}
-    with open(filename,'r') as f:
+    with open(word + '/' + filename,'r') as f:
         for line in f:
             tempLineList = []
             for word in line.split():
@@ -53,8 +53,8 @@ def generateSimilarity(distance, token, tokenSet):
     return similarities
 
 #writes the results of the program to a file
-def writeSimilaritiesToFile(similarities, filename):
-    f = open(filename, "w")
+def writeSimilaritiesToFile(similarities, filename, word):
+    f = open(word + '/' + filename, "w")
     for item in similarities:
         f.write(str(item) + '\n')
     f.close()
@@ -77,7 +77,7 @@ def main(term='chemistry'):
 
     print("Loading " + word + " distance lists from file...")
     #get the distance lists
-    distanceLists = readDistanceListsFromFile(word + '_distance_lists.txt')
+    distanceLists = readDistanceListsFromFile(word + '_distance_lists.txt', word)
     print("Finished loading distance lists from file after", time.time()-start_time, "seconds.")
 
     #get the token for word
@@ -93,7 +93,7 @@ def main(term='chemistry'):
 
     #print out final results to a file
     print("Saving results to file...")
-    writeSimilaritiesToFile(similarities, word + '_similarities.txt')
+    writeSimilaritiesToFile(similarities, word + '_similarities.txt', word)
 
     print("Total execution time:", time.time()-start_time)
 

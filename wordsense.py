@@ -1,5 +1,6 @@
 from nltk.corpus import wordnet
 import time
+import os
 
 #GETS EACH LEMMA AND FILTERS OUT COMPOUND WORDS
 def generateLemmas(synset):
@@ -40,7 +41,10 @@ def generateDistanceLists(word, distance):
 
 #writes the final results to a file, printing each lemma for each synset generated
 def writeDistanceListsToFile(distanceLists, filename):
-    f = open(filename, "w")
+    #create a new directory for the word
+    os.mkdir(filename)
+    pathname = os.path.join(filename, filename + '_distance_lists.txt')
+    f = open(pathname, "w")
     for i in range(0,len(distanceLists)):
         f.write(str(i) + ' ')
         for syn in distanceLists[i]:
@@ -53,7 +57,7 @@ def writeDistanceListsToFile(distanceLists, filename):
 ############
 ##MAIN
 ############
-def main(term='chemistry', val=8):
+def main(term='chemistry', val=6):
     start_time = time.time()
 
     #define the word we use
@@ -70,7 +74,7 @@ def main(term='chemistry', val=8):
 
     #write the lists to a file
     print('Saving distance lists to a file...')
-    writeDistanceListsToFile(results, word + "_distance_lists.txt")
+    writeDistanceListsToFile(results, word)
     print("Finished saving distance lists to file after", time.time()-start_time, "seconds.")
 
     print("Total execution time:", time.time()-start_time)

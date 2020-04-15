@@ -1,0 +1,7 @@
+{'Distance': 0, 'Set Size': 1, 'Mean': 1.0, 'Min': 1.0, 'Max': 1.0, 'Standard Deviation': 0.0}
+{'Distance': 1, 'Set Size': 4, 'Mean': 0.3588852741343637, 'Min': 0.23267784171543118, 'Max': 0.605859371014091, 'Standard Deviation': 0.14818237879279247}
+{'Distance': 2, 'Set Size': 14, 'Mean': 0.20458712341135607, 'Min': 0.0, 'Max': 0.4959913633675115, 'Standard Deviation': 0.1368754531311198}
+{'Distance': 3, 'Set Size': 25, 'Mean': 0.14095907315567865, 'Min': -0.028055908070082635, 'Max': 0.45308464356921757, 'Standard Deviation': 0.11933187706900418}
+{'Distance': 4, 'Set Size': 163, 'Mean': 0.1522380896212381, 'Min': -0.11303785253345314, 'Max': 0.4403144049609975, 'Standard Deviation': 0.11228187739030211}
+{'Distance': 5, 'Set Size': 667, 'Mean': 0.08538834970246195, 'Min': -0.18809607920581817, 'Max': 0.49352010611250696, 'Standard Deviation': 0.11752145558143744}
+{'Distance': 6, 'Set Size': 1445, 'Mean': 0.07732057497282277, 'Min': -0.18835263816663192, 'Max': 0.605859371014091, 'Standard Deviation': 0.11877315151744383}
