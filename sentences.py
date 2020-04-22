@@ -1,213 +1,475 @@
-sentenceNLP= ["I think it's something about my body chemistry that they don't like.",
-"The transformations of these two forms are discussed in Chemistry: Physical.",
-"'You are too good,' said the master of Trinity, 'to die of drinking punch in the torrid zone'; and Watson, instead of becoming, as he had flattered himself, a great orientalist, remained at home to be elected professor of chemistry, a science of which he did not at the time possess the simplest rudiments.",
-"The Chemistry of the Sun (1887) is an elaborate treatise on solar spectroscopy based on the hypothesis of elemental dissociation through the intensity of solar heat.",
-"So well was his position as a leading man of science now established that in 1854 he was appointed professor of chemistry and dean of the Faculte des Sciences at Lille.",
-"From about 1796 Ampere gave private lessons at Lyons in mathematics, chemistry and languages; and in 1801 he removed to Bourg, as professor of physics and chemistry, leaving his ailing wife and infant son at Lyons.",
-"Kuavos, blue -yevvav, to produce), C2N2, in chemistry, a gas composed of carbon and nitrogen.",
-"advanced chemistry or to have found further confirmation in the facts of chemistry.",
-"He was thus led to conclude that chemistry is a branch of applied mathematics and to endeavour to trace a law according to which the quantities of different bases required to saturate a given acid formed an arithmetical, and the quantities of acids saturating a given base a geometrical, progression.",
-"An exact and conscientious worker, he did much to improve and systematize the processes of analytical chemistry and mineralogy, and his appreciation of the value of quantitative methods led him to become one of the earliest adherents of the Lavoisierian doctrines outside France.",
-"The first incentive to his serious study of chemistry was given by hearing J.",
-"His first acquaintance with chemistry was gained as laboratory boy to an apothecary in Rouen (1777-1779), and after various vicissitudes he obtained an introduction to A.",
-"Mountain winters were always a surprise to lowlanders and easterners, where the chemistry of moisture played games that produced slush and wet snow, not the sparkling crystals so soft a broom could clear a foot-deep snowfall with a few swishes.",
-"In 1845 he was appointed to the chair of chemistry, physics and technology at the Wiesbaden Agricultural Institution, and three years later he became the first director of the chemical laboratory which he induced the Nassau government to establish at that place.",
-"Perhaps the most remarkable discovery of modern chemistry is the existence of compounds, which, whilst possessing an identical composition, are absolutely different bodies, judged of by their properties.",
-"And as the undefinable essence of the force moving the heavenly bodies, the undefinable essence of the forces of heat and electricity, or of chemical affinity, or of the vital force, forms the content of astronomy, physics, chemistry, botany, zoology, and so on, just in the same way does the force of free will form the content of history.",
-"The attention he had paid to chemistry in the earlier part of his career enabled him to hold his own in this position, but he found his work more congenial when in 1887 he was transferred to the professorship of physics.",
-"GLYCOLS, in organic chemistry, the generic name given to the aliphatic dihydric alcohols.",
-"Copious extracts from a diary kept by him at this time are given by Bain; they show how methodically he read and wrote, studied chemistry and botany, tackled advanced mathematical problems, made notes on the scenery and the people and customs of the country.",
-"PYRIMIDINES, METADIAZINES or Miazines, in organic chemistry, a series of heterocyclic compounds containing a ring complex, composed of four carbon atoms and two nitrogen atoms, the nitrogen atoms being in the meta-position.",
-"In 1849 we find him studying chemistry under Bunsen at Marburg, where his love for astronomy was revived by Gerling's lectures.",
-"Gilbert, Rothamsted Memoirs on Agricultural Chemistry and Physiology, 7 vols.",
-"The university, founded in 1869, built mainly of basalt, has schools of arts, medicine, chemistry and mineralogy.",
-"At that date the science of chemistry was very imperfectly known, and the real constituents of ordinary remedies so little understood that different virtues were attributed to different products containing the same constituents.",
-"In 1849 he was appointed professor of practical chemistry at University College, London, and from 1855 until his retirement in 1887 he also held the professorship of chemistry.",
-"This table is taken from Warington's Chemistry of the Farm, 19th edition (Vinton and Co.), to which reference may be made for a detailed discussion of the feeding of animals.",
-"In 1904 he delivered at the university of California a course of lectures, the object of which was to illustrate the application of the methods of physical chemistry to the study of the theory of toxins and antitoxins, and which were published in 1907 under the title Immunochemistry.",
-"On his arrival in Russia he rapidly rose to distinction, and was made professor of chemistry in the university of St Petersburg; he ultimately became_rector, and in 1764 secretary of state.",
-"He initiated in 1866 the spectroscopic observation of sunspots; applied Doppler's principle in 1869 to determine the radial velocities of the chromospheric gases; and successfully investigated the chemistry of the sun from 1872 onward.",
-"The appeal to authority cannot be permitted in economics any more than in chemistry, physics or astronomy.",
-"In 1787 he was appointed lecturer in chemistry to the Royal Artillery, and when the university was founded in 1810 he was selected to be the professor of chemistry.",
-"The work achieved by Russian savants, especially in biology, physiology and chemistry, and in the sciences descriptive of the vast territory of Russia, is well known to Europe.",
-"In systematic chemistry, sodium hyposulphite is a salt of hyposulphurous acid, to which Schutzenberger gave the formula H 2 S0 2, but which Bernthsen showed to be H 2 S 2 0 4.",
-"The Board of Agriculture in 1803 had commissioned Sir Humphry Davy to deliver a course of lectures on the connexion of chemistry with vegetable physiology.",
-"In 1840 the appearance of Chemistry in its Application to Agriculture and Physiology by Justus von Liebig set on foot a movement in favour of scientific husbandry, the most notable outcome of which was the establishment by Sir John Bennet Lawes in 1843 of the experimental station of Rothamsted.",
-"In 1768 he had published Institutiones metallurgicae, intended to give a scientific form to chemistry by digesting facts established by experiment into a connected series of propositions.",
-"Thus at one step Pasteur gained a place of honour among the chemists of the day, and was immediately appointed professor of chemistry at the Faculte of Science at Strasburg, where he soon afterwards married Mlle Laurent, who proved herself to be a true and noble helpmeet.",
-"Dandolo published in Italian several treatises on agriculture, vine-cultivation, and the rearing of cattle and sheep; a work on silk-worms, which was translated into French by Fontanelle; a work on the discoveries in chemistry which were made in the last quarter of the 18th century (published 1796); and translations of several of the best French works on chemistry.",
-"In 18J4 he left Berlin to become professor of physics in Basel University, removing nine years afterwards to Brunswick Polytechnic, and in 1866 to Karlsruhe Polytechnic. In 1871 he accepted the chair of physical chemistry a t Leipzig.",
-"In 1804 Vauquelin resigned his professorship at the College de France and successfully used his influence to obtain the appointment for Thenard, who six years later, after Fourcroy's death, was further elected to the chairs of chemistry at the Ecole Polytechnique and the Faculte des Sciences.",
-"But his progress was so rapid that in two or three years he was able to take his master's place at the lecture-table, and Fourcroy and Vauquelin were so satisfied with his performance that they procured for him a school appointment in 1797 as teacher of chemistry, and in 1798 one as repetiteur at the Ecole Polytechnique.",
-"Like most great teachers he published a text-book, and his Traite de Chimie elementaire, theorique et pratique (4 vols., Paris, 1813-16), which served as a standard for a quarter of a century, perhaps did even more for the advance of chemistry than his numerous original discoveries.",
-"Wilson, Elements of Thermal Chemistry (London, 1885); P. Duhem, Traite de Mecanique Chimique (Paris, 18 97-99); J.",
-"Chemistry is abstract; mineralogy is concrete.",
-"Bunsen held the chair of chemistry.",
-"Finally, in 1876, he became professor of chemistry at Tubingen, where he died on the 11th of April 1895.",
-"This society early began td hold a great show of live stock, implements, &c. In 1842 certain Midlothian tenant-farmers had the merit of originating an Agricultural Chemistry Association (the first of its kind), by which funds were raised for the purpose of conducting such investigations as the title of the society implies.",
-"Alchemy in this sense is merely an early phase of the development of systematic chemistry; in Liebig's words, it was ' never at any time anything different from chemistry'.",
-"The earliest Hellenic culture in the East was Syrian, and the Arabs made their first acquaintance with Greek chemistry, as with Greek philosophy, mathematics, medicine, &c., by the intermediary of Syriac translations.",
-"If this view be accepted, an entirely new light is thrown on the achievements of the Arabs in the history of chemistry.",
-"This sulphur again was not ordinary sulphur, but some principle derived from it, which constituted the philosopher's stone or elixir - white for silver and yellow or 1 ' Some traditionary knowledge might be secreted in the temples and monasteries of Egypt; much useful experience might have been acquired in the practice of arts and manufactures, but the science of chemistry owes its origin and improvement to the industry of the Saracens.",
-"But the most eager search of Arabian chemistry was the transmutation of metals, and the elixir of immortal health: the reason and the fortunes of thousands were evaporated in the crucibles of alchemy, and the consummation of the great work was promoted by the worthy aid of mystery, fable and superstition.",
-"Increasing attention was paid to the investigation of the properties of substances and of their effects on the human body, and chemistry profited by the fact that it passed into the hands of men who possessed the highest scientific culture of the time, Still, belief in the possibility of transmutation long remained orthodox, even among the most distinguished men of science.",
-"RUTHENIUM symbol Ru, atomic weight To' 7 (O = 0)1, in chemistry, a metallic element, found associated with platinum, in platinum ore and in osmiridium.",
-"Ludwig, under whom he studied at Zurich, decided him to devote his attention to physiological chemistry, and therefore he went, after his graduation (18J4), to Heidelberg, where R.",
-"In 1859 he became privat-docent in physics and chemistry at Breslau, where in the preceding year he had graduated as Ph.",
-"Returning to Glasgow in 1872 he became assistant in the Young laboratory of technical chemistry at Anderson's College, and from 1874 acted as tutorial assistant in chemistry at the university.",
-"In 1880 he was appointed to the chair of chemistry at University College, Bristol, becoming principal in the following year, and in 1887 he succeeded A.",
-"Williamson as professor of chemistry at University College, London.",
-"His earlier work was mainly concerned with organic chemistry, and he published researches on picoline and its derivatives in 1876-78 and on quinine and its decomposition products in 1878-79.",
-"Later his attention was taken up with questions of physical and inorganic chemistry.",
-"1872), who from 1894 had assisted him at University College, London, and in 1903 was appointed professor of chemistry at University College, Bristol, enabled him to announce the existence in the atmosphere of three new gases, neon, krypton and xenon.",
-"Systematic, 1901, and he edited a series of 'Textbooks of Physical Chemistry.'",
-"XANTHONE (dibenzo-y-pyrone, or diphenylene ketone oxide), C H 0 in organic chemistry, a heterocyclic compound containing the ring system shown below.",
-"CHEMISTRY (formerly ' chymistry'; Gr.",
-"A further differentiation of the provinces of chemistry and physics is shown by the classifications of matter.",
-"Chemistry and physics, however, meet on common ground in a well-defined branch of science, named physical chemistry, which is primarily concerned with the correlation of physical properties and chemical composition, and, more generally, with the elucidation of natural phenomena on the molecular theory.",
-"It may be convenient here to state how the whole subject of chemistry is treated in this edition of the Encyclopaedia Britannica.",
-"Here is treated the history of descriptive inorganic chemistry; reference should be made to the articles on the separate elements for an account of their preparation, properties, &c.",
-"Notwithstanding the false idea which prompted the researches of the alchemists, many advances were made in descriptive chemistry, the metals and their salts receiving much attention, and several of our important acids being discovered.",
-"At the same time, however, there were many who, opposed to the Paracelsian edefinition of chemistry, still labored at the problem of the alchemists, while others gave much attention to the chemical industries.",
-"Metallurgical operations, such as smelting, roasting, and refining, were scientifically investigated, and in some degree explained, by Georg Agricola and Carlo Biringuiccio; ceramics was studied by Bernard Palissy, who is also to be remembered as an early worker in agricultural chemistry, having made experiments on the effect of manures on soils and crops; while general technical chemistry was enriched by Johann Rudolf Glauber.1",
-"de la BoÃ« Sylvius (1614-1672), who regarded medicine as applied chemistry, and Otto Tachenius, who elucidated the nature of salts.",
-"The formulation of this definition of chemistry was due to Robert Boyle.",
-"Descriptive chemistry was now assuming considerable proportions; the experimental inquiries suggested by Boyle were being assiduously developed; and a wealth of observa tions was being accumulated, for the explanation of which the resources of the dominant theory were sorely taxed.",
-"Lavoisier may be justly regarded as the founder of modern or quantitative chemistry.",
-"This subject is discussed in section IV., Organic Chemistry.",
-"von Hofmann, who materially helped the acceptance of the doctrine by the lucid exposition in his Introduction to Modern Chemistry, 1865.",
-"Such isomerism, named stereoisomerism (q.v.),hasbeen assiduously developed during recentyears; it prevails among many different classes of organic compounds and many examples have been found in inorganic chemistry.",
-"This spirit gave way to the physicians, who regarded ' chemistry as the art of preparing medicines,' a denotation which in turn succumbed to the arguments of Boyle, who regarded it as the ' science of the composition of substances,' a definition which adequately fits the science to-day.",
-"It is remarkable that systematic instruction in the theory and practice of chemistry only received earnest attention in our academic institutions during the opening decades of the 19th century.",
-"Although for a long time lecturers and professors had been attached to universities, generally their duties had also included the study of physics, mineralogy and other subjects, with the result that chemistry received scanty encouragement.",
-"But the first important step in providing means whereby students could systematically study chemistry was the foundation of the College of Chemistry in 1845.",
-"This institution was taken over by the Government in 1853, becoming the Royal College of Chemistry, and incorporated with the Royal School of Mines; in 1881 the names were changed to the Normal School of Science and Royal School of Mines, and again in 1890 to the Royal College of Science.",
-"During recent years chemistry has become one of the most important subjects in the curriculum of technical schools and universities, and at the present time no general educational institution is complete until it has its full equipment of laboratories and lecture theatres.",
-"These two works, and especially the latter, were the models followed by Thenard, Liebig, Strecker, Wohler and many others, including Thomas Graham, upon whose Elements of Chemistry was founded Otto's famous Lehrbuch der Chemie, to which H.",
-"Organic chemistry was especially developed by the publication of Gerhardt's Traite de chimie organique in 1853-1856, and of Kekule's Lehrbuch der organischen Chemie in 1861-1882.",
-"The number of periodicals devoted to chemistry has steadily increased since the early part of the 19th century.",
-"Their full significance is treated in the section of this article dealing with organic chemistry, and in the articles Isomerism and STEREO-Isomerism.",
-"Inorganic Chemistry Inorganic chemistry is concerned with the descriptive study o f the elements and their compounds, except those of carbon.",
-"The earliest discoveries in inorganic chemistry are to be found in the metallurgy, medicine and chemical arts of the ancients.",
-"The 18th century witnessed striking developments in pneumatic chemistry, or the chemistry of gases, which had been begun by van Helmont, Mayow, Hales and Boyle.",
-"Before leaving this phase of inorganic chemistry, we may mention other historical examples of allotropy.",
-"Klaproth, and especially by Berzelius; these chemists are to be regarded as the pioneers in this branch of descriptive chemistry.",
-"After having been somewhat neglected for the greater attractions and wider field presented by organic chemistry, the study of the elements and their inorganic compounds is now' rapidly coming into favour; new investigators are continually entering the lists; the beaten paths are being retraversed and new ramifications pursued.",
-"Organic Chemistry While inorganic chemistry was primarily developed through the study of minerals - a connexion still shown by the French appellation chimie minerale - organic chemistry owes its origin to the investigation of substances occurring in the vegetable and animal organisms. The quest of the alchemists for the philosopher's stone, and the almost general adherence of the iatrochemists to the study of the medicinal characters and preparation of metallic compounds, stultified in some measure the investigation of vegetable and animal products.",
-"It thus happened that in the earlier treatises on phlogistic chemistry organic substances were grouped with all combustibles.",
-"Bergman worked in the same direction; while Rouelle was attracted to the study of animal chemistry.",
-"Lavoisier, to whom chemistry was primarily the chemistry of oxygen compounds, having developed the radical theory initiated by Guyton de Morveau, formulated the hypothesis that vegetable and animal substances were oxides of radicals composed of carbon and hydrogen; moreover, since simple radicals (the elements) can form more than one oxide, he attributed the same character to his hydrocarbon radicals: he considered, for instance, sugar to be a neutral oxide and oxalic acid a higher oxide of a certain radical, for, when oxidized by nitric acid, sugar yields oxalic acid.",
-"At the same time, however, he adhered to the classification of Lemery; and it was only when identical compounds were obtained from both vegetable and animal sources that this subdivision was discarded, and the classes were assimilated in the division organic chemistry.",
-"The exact delimitation of inorganic and organic chemistry engrossed many minds for many years; and on this point there existed considerable divergence of opinion for several decades.",
-"Notwithstanding these errors, the value of the ' ethyl theory ' was perceived; other radicals - formyl, methyl, amyl, acetyl, &c. - were characterized; Dumas, in 1837, admitted the failure of the etherin theory; and, in company with Liebig, he defined organic chemistry as the ' chemistry of compound radicals'.",
-"van't Hoff and Le Bel, occupies such a position in organic chemistry that its value can never be transcended.",
-"An apt definition of organic chemistry is that it is 'the study of the hydrocarbons and their derivatives.'",
-"Analytical Chemistry This branch of chemistry has for its province the determination of the constituents of a chemical compound or of a mixture of compounds.",
-"The germs of analytical chemistry are to be found in the writings of the pharmacists and chemists of the iatrochemical period.",
-"Scheele enriched the knowledge of chemistry by an immense number of facts, but he did not possess the spirit of working systematically as Bergman did.",
-"Anton Laurent Lavoisier, however, must be considered as the first great exponent of this branch of chemistry.",
-"He realized that the composition by weight of chemical compounds was of the greatest moment if chemistry were to advance.",
-"His fame rests upon his exposition of the principles necessary to chemistry as a secience, but of his contributions to analytical inorganic chemistry little can be said.",
-"We may, however, notice Heinrich Rose i and Friedrich WShler, 2 who, having worked up the results of their teacher Berzelius, and combined them with their own valuable observations, exerted great influence on the progress of analytical chemistry by publishing works which contained admirable accounts of the then known methods of analysis.",
-"Fresenius, the founder of the Zeitschrift fiir analytische Chemie (1862), we are particularly indebted for perfecting and systematizing the various methods of analytical chemistry.",
-"The quantitative precipitation of metals by the electric current, although known to Michael Faraday, was not applied to analytical chemistry until O.",
-"Progress in forensic chemistry was only possible after the reactions of poisons had been systematized; a subject which has been worked out by many investigators, of whom we notice K.",
-"Industrial chemistry makes many claims upon the chemist, for it is necessary to determine the purity of a product before it can be valued.",
-"The passing of the Food and Drug Acts (1875-1899) in England, and the existence of similar adulteration acts in other countries, have occasioned great progress in the analysis of foods, drugs, &c. For further information on this branch of analytical chemistry, see Adulteration.",
-"In England this branch of chemistry is especially cared for by the Institute of Chemistry, which, since its foundation in 1877, has done much for the training of analytical chemists.",
-"In the preceding sketch we have given a necessarily brief account of the historical development of analytical chemistry in its main branches.",
-"Crookes, Select Methods in Analytical Chemistry).",
-"Physical Chemistry We have seen how chemistry may be regarded as having for its province the investigation of the composition of matter, and the changes in composition which matter or energy may effect on matter, while physics is concerned with the general properties of matter.",
-"In the investigation of these relations, the physicist and chemist meet on common ground; this union has been attended by fruitful and far-reaching results, and the correlation of physical properties and chemical composition is one of the most important ramifications of physical chemistry.",
-"In the article Thermo Chemistry a general account of heats of formation of chemical compounds is given, and it is there shown that this constant measures the stability of the compound.",
-"In organic chemistry it is more customary to deal with the ' heat of combustion,' i.e.",
-"Researches in synthetical organic chemistry have shown that this property of fluorescenceis common to an immense number of substances, and theories have been proposed whose purpose is to connect the property with constitution.",
-"Thorpe, Essays in Historical Chemistry (2nd ed., 1902).",
-"Ostwald, Principles of Inorganic Chemistry (3rd Eng.",
-"ed., 1908), Outlines of General Chemistry, Lehrbuch der allgemeinen Chemie; W.",
-"van't Hoff, Lectures on Theoretical and Physical Chemistry; J.",
-"Walker, Introduction to Physical Chemistry (4th ed., 1907); H.",
-"C. Jones, Outlines of Physical Chemistry (1903); D.",
-"Mendeleeff, Principles of Chemistry (3rd ed., 1905).",
-"Roscoe and Schorlemmer, Inorganic Chemistry (3rd ed., Non-metals, 1905; Metals, 1907); R.",
-"Lachmann, Spirit of Organic Chemistry; J.",
-"Cohen, Organic Chemistry (1908); A.",
-"Stewart, Recent Advances in Organic Chemistry (1908); and in a series of pamphlets issued since 1896 with the title Sammlung chemischer and chemisch-technischer Vortrcige.",
-"Educated partly at Tiverton grammar-school, and partly at Dublin, where he studied chemistry, he afterwards proceeded to Edinburgh and took the degree of M.D.",
-"Processes were devised by Guimet (1826) and by Christian Gmelin (1828), then professor of chemistry in Tubingen; but while Guimet kept his process a secret Gmelin published his, and thus became the originator of the 'artificial ultramarine' industry.",
-"In biological chemistry he worked at the problems of animal heat and at the phenomena accompanying the growth of plants, and he also devoted much time to meteorological questions and observations.",
-"degree there in 1768, spent a year more in the hospitals of London and Paris, and began practice in Philadelphia at the age of twenty-four, undertaking at the same time the chemistry class at the Philadelphia medical college.",
-"In 1789 he exchanged his chemistry lectureship for that of the theory and practice of physic; and when the medical college, which he had helped to found, was absorbed by the university of Pennsylvania in 1791 he became professor of the institutes of medicine and of clinical practice, succeeding in 1796 to the chair of the theory and practice of medicine.",
-"ROBERT EMMET (1778-1803), Irish rebel, youngest son of Robert Emmet, physician to the lord-lieutenant of Ireland, was born in Dublin in 1778, and entered Trinity College in October 1793, where he had a distinguished academic career, showing special aptitude for mathematics and chemistry, and acquiring a reputation as an orator.",
-"In 1839 on Liebig's recommendation he was appointed to the chair of chemistry in the polytechnic at Stuttgart, and held it till within three years of his death, which happened at Stuttgart on the 1st of July 1885.",
-"His earlier work included an investigation of succinic acid, and the preparation of phenyl cyanide (benzonitrile), the simplest nitrile of the aromatic series; but later his time was mainly occupied with questions of technology and public health rather than with pure chemistry.",
-"He was a contributor to the Handworterbuch of Liebig, Willer and Poggendorff, and to the Graham-Otto Textbook of Chemistry, and for many years was a member of the committee of revision of the Pharmacopoeia Germanica.",
-"OXIMES, in organic chemistry, compounds containing the grouping > C: N OH, derived from aldehydes and ketones by condensing them with hydroxylamine.",
-"The acid finds considerable use in organic chemistry, being employed to discriminate between the different types of alcohols and of amines, and also in the production of diazo, azo and diazo-amino compounds.",
-"ACETOPHENONE, or PHENYL-METHYL KETONE, C8H8O or C6H5CO.CH3, in chemistry, the simplest representative of the class of mixed aliphatic-aromatic ketones.",
-"The chemistry of the albumins is one of the most complicated and difficult in the whole domain of organic chemistry.",
-"This list is not exhaustive; other products are given in Gustav Mann, Chemistry of the Proteids (1906), to which reference should be made for a complete account of this class of compounds.",
-"THIAZOLES, in organic chemistry, a series of heterocyclic compounds containing the grouping shown below; the replaceable hydrogen atoms in which are designated a, (3 and µ.",
-"Several journals are published specially to deal with physical chemistry, of which electrochemistry forms an important part.",
-"Among them may be mentioned the Zeitschrift fiir physikalische Chemie (Leipzig); and the Journal of Physical Chemistry (Cornell University).",
-"The name is applied in commerce to a complex mixture of carbohydrates obtained by boiling starch with dilute mineral acids; in chemistry, it denotes, with the prefixes d, 1 and d+l (or i), the dextro-rotatory, laevo-rotatory and inactive forms of the definite chemical compound defined above.",
-"Chemistry of Rubber.",
-"Weber, The Chemistry of Indiarubber (London, 1902); Selected papers from the Kew Bulletin, iii.",
-"SIR WILLIAM CROOKES (1832-), English chemist and physicist, was born in London on the 17th of June 1832, and studied chemistry at the Royal College of Chemistry under A.",
-"In addition to many other researches besides those here mentioned, he wrote or edited various books on chemistry and chemical technology, including Select Methods of Chemical Analysis, which went through a number of editions; and he also gave a certain amount of time to the investigation of psychic phenomena, endeavouring to effect some measure of correlation between them and ordinary physical laws.",
-"For the chemistry see H.",
-"On the constitution of phenanthrene see CHEMISTRY: § Organic.",
-"Thomson (Applications of Dynamics to Physics and Chemistry, 47) that on dynamical principles there must be a reciprocal relation between the changes of dimensions produced by magnetization and the changes of magnetization attending mechanical strain.",
-"with miscellaneous studies, especially with that of chemistry, which, in the new form given to it by Lavoisier, he found 'aisee comme l'algebre.'",
-"In 1844, having graduated as doctor of medicine and doctor of science, he was appointed to organize the new faculty of science at Besancon, where he acted as dean and professor of chemistry from 1845 to 1851.",
-"But his most important work was in inorganic and thermal chemistry.",
-"But his best known contribution to general chemistry is his work on the phenomena of reversible reactions, which he comprehended under a general theory of ' dissociation.'",
-"ALUM, in chemistry, a term given to the crystallized double sulphates of the typical formula M 2 SO 4 ï¿½ MP' ï¿½(S04) 324H20, where M.",
-"In chemistry he made a speciality of the platinum metals.",
-"NITRO COMPOUNDS, in organic chemistry, compounds containing the monovalent radical -NO 2 directly combined with carbon.",
-"The principal contributors to the ' Transactions ' of this section of the academy were--for anatomy and physiology, Coloman Balogh, Eugene Jendrassik, Joseph Lenhossek and Lewis Thanhoffer; for zoology, John Frivaldszky, John Kriesch and Theodore Margo; for botany, Frederick Hazslinszky, Lewis Juranyi and Julius Klein; for mineralogy and geology, Joseph Szabo, Max Hantken, Joseph Krenner, Anthony Koch and Charles Hoffman; for physics, Baron Lorando Eotviis, Coloman Szily and Joseph Sztoczek; for chemistry, Charles Than and Vincent Wartha; for meteorology, Guido Schenzl.",
-"Anatomy and the study of animal mechanism, animal physics and animal chemistry, all of which form part of a true zoology, were excluded from the usual definition of the word by the mere accident that the zoologist had his museum but not his garden of living specimens as the botanist had; 1 and, whilst the zoologist was thus deprived of the means of anatomical and physiological study - only later supplied by the method of preserving animal bodies in alcohol - the demands of medicine for a knowledge of the structure of the human animal brought into existence a separate and special study of human anatomy and physiology.",
-"Thus he carried on the narrative of orderly development from the point at which it was left by Kant and Laplace - explaining by reference to the ascertained laws of physics and chemistry the configuration of the earth, its mountains and seas, its igneous and its stratified rocks, just as the astronomers had explained by those same laws the evolution of the sun and planets from diffused gaseous matter of high temperature.",
-"Finally, it brought the simplest living matter or formless protoplasm before the mental vision as the startingpoint whence, by the operation of necessary mechanical causes, the highest forms have been evolved, and it rendered unavoidable the conclusion that this earliest living material was itself evolved by gradual processes, the result also of the known and recognized laws of physics and chemistry, from material which we should call not living.",
-"Thus mysticism was finally banished from the domain of biology, and zoology became one of the physical sciences - the science which seeks to arrange and discuss the phenqmena of animal life and form, as the outcome of the operation of the laws of physics and chemistry.",
-"General Tendencies Since Darwin Darwin may be said to have founded the science of bionomics, and at the same time to have given new stimulus and new direction to morphography, physiology, and plasmology, by uniting them as contributories to one common biological doctrine-the doctrine of organic evolution-itself but a part of the wider doctrine of universal evolution based on the laws of physics and chemistry.",
-"TRIAZINES, in organic chemistry, a series of cyclic compounds, containing a ring system composed of three carbon and three nitrogen atoms. Three series are possible, the positions of Marine Trias Of The Alpine And Indian Types.",
-"Uranyl nitrate is used in photography, and also in analytical chemistry as a precipitant for phosphoric acid (as uranyl ammonium phosphate, U02 NH4 P04).",
-"Then, after a short time in Liebig's laboratory at Giessen, and in the Sevres porcelain factory, he became in 1841 professor of chemistry in the academy of Geneva.",
-"In physical chemistry he carried out many researches on the nature and process of solution, investigating in particular the thermal effects produced by the dilution of saline solutions, the variation of the specific heat of saline solutions with temperature and concentration, and the phenomena of liquid diffusion.",
-"TRIAZOLES (pyrro-a and (3'-diazoles), in organic chemistry, a series of heterocyclic compounds containing the ring complex (annexed formula).",
-"Pathological chemistry has been remarkable chiefly for the knowledge we have obtained of the nature of bacterial poisons.",
-"Utilitarian, or perhaps rather practical, considerations have very little to do with the subject from a scientific point of view - no more so than the science of chemistry has to do with the art of the manufacturing chemist.",
-"Pathological chemistry.",
-"450; Krawkow, ' Chemistry of Amyloid,' Arch.",
-"(1888); Pickardt, ' Chemistry of Pathological Exudates,' Berl.",
-"By their relations with the farther East, the Arabs became acquainted with valuable new remedies which have held their ground till modern times; and their skill in chemistry enabled them to prepare new chemical remedies, and form many combinations of those already in use.",
-"In this doubtless he derived much advantage from his knowledge of chemistry, though the science was as yet not disentangled from the secret traditions of alchemy, and was often mixed up with imposture.",
-"Van Helmont (1578-1644) was a man of noble family in Brussels, who, after mastering all other branches of learning as then understood, devoted himself with enthusiasm to medicine and chemistry.",
-"Its chief aim was to reconcile the new views in physiology and chemistry with practical medicine.",
-"He made a resolute attempt to reconstruct medicine on the two bases of the doctrine of the circulation of the blood and the new views of chemistry.",
-"In the application of chemistry to the examination of secretions Willis made some important steps.",
-"He was well acquainted with the works of the ancient physicians, and probably fairly so with chemistry.",
-"Independently of his system, which has long ceased to exert any influence, Hoffmann made some contributions to practical medicine; and his great knowledge of chemistry enabled him to investigate the subject of mineral waters.",
-"Stahl was the author of the theory of' phlogiston 'in chemistry, which in its day had great importance.",
-"He advanced chemistry, botany, anatomy, as well as physiology, and was incessantly occupied in endeavouring to apply his scientific studies to practical medicine, thus continuing the work of his great teacher Boerhaave.",
-"For medicine in England Harvey did what William Gilbert did for physics and Robert Boyle for chemistry: he insisted upon direct interrogation of natural processes, and thereby annihilated the ascendancy of mere authority, which, while nations were in the making, was an essential principle in the welding together of heterogeneous and turbulent peoples.",
-"conceptions will be opened out, not in bacteriology only, but also in biological chemistry and in molecular physics.",
-"To biological chemistry we have been deeply indebted during the latter half of the 19th century.",
-"In 1872, Hoppe-Seyler (1825-1895) gave a new beginning to our knowledge of the chemistry of secretion and of excretion; and later students have increased the range of physiological and pathological chemistry by investigations not only into the several stages of albuminoid material and the transitions which all foodstuffs undergo in digestion, but even into the structure of protoplasm itself.",
-"Thus the reciprocity of the various organs, maintained throughout the divisions of physiological labour, is not merely a mechanical stability; it is also a mutual equilibration in functions incessantly at work on chemical levels, and on those levels of still higher complexity which seem to rise as far beyond chemistry as chemistry beyond physics.",
-"In the preservation of immunity then, in its various degrees and kinds, not only is the chemistry of the blood to be studied, but also its histology.",
-"A condition of this reform was the need of a preliminary training of the mind of the pupil in pure science, even in physics and chemistry; that is to say, before introduction into his professional studies.",
-"Des Cloizeaux (1817-1897) at the Ecole Normale, and in 1876 he became professor of mineralogy at the Sorbonne, but on the death of Wurtz in 1884 he exchanged that position for the chair of organic chemistry.",
-"Friedel achieved distinction both in miner alogy and organic chemistry.",
-"In organic chemistry, his study of the ketones and aldehydes, begun in 1857, provided him with the subject of his other doctoral thesis.",
-"These miners' schools (Bergschule, ecoles des mineurs) give elementary instruction in chemistry, physics, mechanics, mineralogy, geology and mathematics and drawing, as well as in such details of the art of mining as will best supplement the practical information already acquired in underground work.",
-"ADOLPHE WILHELM HERMANN KOLBE (1818-1884), German chemist, was born on the 27th of September 1818 at Elliehausen, near GÃ¶ttingen, where in 1838 he began to study chemistry under F.",
-"From 1847 to 1851 he was engaged at Brunswick in editing the Dictionary of Chemistry started by Liebig, but in the latter year he went to Marburg as successor to Bunsen in the chair of chemistry.",
-"He published a Lehrbuch der organischen Chemie in 1854, smaller textbooks of organic and inorganic chemistry in 1877-1883, and Zur Entwickelungsgeschichte der theoretischen Chemie in 1881.",
-"ACRIDINE, C13H9N, in chemistry, a heterocyclic ring compound found in crude coal-tar anthracene.",
-"The knowledge of the chemistry of glass-making has been considerably widened by Dr F."]
+sentences=["But after Bennigsen's departure, the Grand Duke Tsarevich Constantine Pavlovich joined the army.",
+"He failed to acknowledge my departure as I returned to our room.",
+"They too beat a hasty departure for the downstairs.",
+"Actually, I was considering a departure from my usual costume.",
+"He raised the topic as much to take Cynthia's mind off Martha's departure as from any serious concern about the old man.",
+"But the countess' health obliged them to delay their departure from day to day.",
+"As if it were yesterday I remember the preparations, the departure with my teacher and my mother, the journey, and finally the arrival in Boston.",
+"Every plant is constrained to carry Out its functions of germination, growth, nutrition, reproduction, &c., between certain limits of temperature, and somewhere between the extremes of these limits each function finds ao optimum temperature at which the working of the living machinery is at its best, and, other things being equal, any great departure from this may induce pathological conditions; and many disasters are due to the failure to provide such suitable temperaturese.g.",
+"This new departure she lost no time in proclaiming to the world.",
+"She walked towards her quarters, uncertain why his departure bothered her.",
+"Betsy remained down in the dumps over Martha's departure but per usual, she successfully researched the Internet and found directions to eight different camping parks in the area.",
+"According to Suidas, Plato, on his departure for Sicily, left his pupils in charge of Heraclides.",
+"I hurried the preparations for our departure as much as possible, and here we are.",
+"This third Late Minoan period - the beginning of which may be fixed about 1400 - is an age of stagnation and decline, but the point of departure continued to be the models supplied by the age that had preceded it.",
+"In the confusion of the group's departure, a carload of ice climbers arrived to register.",
+"While the old gent's hasty departure was out of character, his rapid exit caused the Deans no concern.",
+"But a fortnight after his departure, to the surprise of those around her, she recovered from her mental sickness just as suddenly and became her old self again, but with a change in her moral physiognomy, as a child gets up after a long illness with a changed expression of face.",
+"Donald Ryland and Franny Mulligan were checking out this evening, as soon as he returned with Donnie, followed by the Quincy sisters scheduled departure in the morning.",
+"Such a break is known as a leaf-gap. A little above the departure of the leaf-bundle the stele again closes up only to be again broken by the departure of the next leaf-bundle.",
+"Only a few days after their departure Sir Richard Grenville arrived with supplies and more colonists, fifteen of whom remained when he sailed away.",
+"In the few hours remaining before his departure, her head was so far in the clouds that she didn't even notice he said nothing about marriage.",
+"Petya, having left his people after their departure from Moscow, joined his regiment and was soon taken as orderly by a general commanding a large guerrilla detachment.",
+"Dean felt satisfaction that his wife's dark mood had improved, but Martha's departure remained on her mind.",
+"One had her form under my house all winter, separated from me only by the flooring, and she startled me each morning by her hasty departure when I began to stir--thump, thump, thump, striking her head against the floor timbers in her hurry.",
+"The old man made a departure from his usual routine in honor of his son's arrival: he gave orders to admit him to his apartments while he dressed for dinner.",
+"Moreover, whatever the value of Goethe's labours in that field, they were not published before 1820, long after evolutionism had taken a new departure from the works of Treviranus and Lamarck - the first of its advocates who were equipped for their task with the needful large and accurate knowledge of the phenomena of life as a whole.",
+"But while himself remaining, he gave instructions for the departure of the princess and Dessalles with the little prince to Bogucharovo and thence to Moscow.",
+"After a sneaky backdoor departure and stop at the variety store for their purchases the couple was on their way.",
+"His leave-taking of Andromache in the sixth book of the Iliad, and his departure to meet Achilles for the last time, are most touchingly described.",
+"In Dublin, whither he proceeded with Mountjoy, he heard of the accession of King James, at whose court he presented himself in June accompanied by Rory O'Donnell, who had become chief of the O'Donnells after the departure of his brother Hugh Roe.",
+"And when after Pierre's departure Helene returned to Petersburg, she was received by all her acquaintances not only cordially, but even with a shade of deference due to her misfortune.",
+"In the megaphyllous forms, on the other hand, (Ferns) whose leaves are large relatively to the stem, the departure of the correspondingly large trace causes a gap (leaf-gap) in the vascular cylinder, as already described.",
+"A few days before his departure a special thanksgiving, at which Nicholas was present, was held in the cathedral for the Russian victory.",
+"The departure left husband Joseph in an even surlier mood than usual, and he growled his way through breakfast.",
+"The plane was scheduled to leave in 45 minutes but one look at the departure board was indicative of things to come.",
+"Kant had fewer isolated points of departure than intuitionalists; yet gaps and isolation recurred in Kant, and helped to make him the father of modern agnosticism.",
+"These commentaries may be described as to a certain extent a new departure in New Testament exegesis.",
+"Having repeated her order to Dron to have horses ready for her departure next morning, she went to her room and remained alone with her own thoughts.",
+"The news of that battle of Tarutino, unexpectedly received by Napoleon at a review, evoked in him a desire to punish the Russians (Thiers says), and he issued the order for departure which the whole army was demanding.",
+"In Proclus we find this conception of an emanation of the world out of the Deity, or the absolute, made more exact, the process being regarded as threefold-0) persistence of cause in effect, (2) the departure of effect from cause, and (3) the tendency of effect to revert to its cause.",
+"Inversnaid is the point of arrival and departure for the Trossachs coaches, and here, too, there is a graceful waterfall, fed by the Arklet from the loch of that name, 22 m.",
+"The only element of real strength that the statute acquired during the first twenty years of its history came from the Elkins Act of 1903, which stipulated that the published rate should be the legal rate, and declared any departure from the published rate to be a misdemeanour.",
+"These in turn converge to a pair of single lines which lead to two groups of marshalling sidings, called ' gridirons ' from their shape, and these again converge to single lines leading to ' lower reception and departure lines ' at the bottom of the slope.",
+"This was a departure from the customs of the age, and was perhaps influenced less by generosity than by expediency.",
+" By this new departure (19th of October 1781) the Jews were permitted to learn handicrafts, arts and sciences, and with certain restrictions to devote themselves to agriculture.",
+"And lastly, the final departure of the great Emperor from his heroic army is presented to us by the historians as something great and characteristic of genius.",
+"Princess Mary put off her departure, and for three weeks looked after Natasha as if she had been a sick child.",
+"I will confess to you, dear Mary, that in spite of his extreme youth his departure for the army was a great grief to me.",
+"Two days after the departure of the Simons the prisoner is said by the Restoration historians to have been put in a dark room which was barricaded like the cage of a wild animal.",
+"According to the official returns,' the over-sea immigration for the forty-seven years 1857-1903 aggregated 2,872,588, while the departure of emigrants during the same period was 1,066,480, showing a net addition to the population of 1,806,108.",
+"In the principal towns letters may be posted in special boxes at the head office just before the departure of any given mail train, and are conveyed direct to the travelling post office.",
+"Until he knew exactly what had happened in Lydia's apartment and the details of Fitzgerald's departure anything was possible.",
+"These furrows have apparently been cut in situ with a very accurate engine; for not the slightest departure from parallelism can be detected in any of the movable webs relative to the fixed webs.",
+"On his release he had promised he would maintain the treaty of Arras and withdraw from the Netherlands; but he delayed his departure for nearly a year and took part in a punitive campaign against his captors and their allies.",
+"Having written this and given the paper to Alpatych, he told him how to arrange for departure of the prince, the princess, his son, and the boy's tutor, and how and where to let him know immediately.",
+"The other, from the countess, described their last days in Moscow, their departure, the fire, and the destruction of all their property.",
+"In 664 at the synod of Whitby, Oswio accepted the usages of the Roman Church, which led to the departure of Colman and the appointment of Wilfrid as bishop of York.",
+"And Prince Andrew after giving directions about his departure went to his room.",
+"When later on in his memoirs Count Rostopchin explained his actions at this time, he repeatedly says that he was then actuated by two important considerations: to maintain tranquillity in Moscow and expedite the departure of the inhabitants.",
+"After the departure of the Greek troops the Cretan leaders, who had hitherto demanded annexation to Greece, readily acquiesced in the decision of the powers, and the insurgent Assembly, under its president Dr Sphakianakis, a man of good sense and moderation, co-operated with the international commanders in the maintenance of order.",
+"After Denisov's departure, Rostov spent another fortnight in Moscow, without going out of the house, waiting for the money his father could not at once raise, and he spent most of his time in the girls' room.",
+"During that year after his son's departure, Prince Nicholas Bolkonski's health and temper became much worse.",
+"Some days after Anatole's departure Pierre received a note from Prince Andrew, informing him of his arrival and asking him to come to see him.",
+"Soon after the duke's departure--before he could possibly have reached Semenovsk--his adjutant came back from him and told Kutuzov that the duke asked for more troops.",
+"Owing to the count's customary carelessness nothing was ready for their departure by the twenty-eighth of August and the carts that were to come from their Ryazan and Moscow estates to remove their household belongings did not arrive till the thirtieth.",
+"Yet the new departure then made did not lead far.",
+"And I'm gone too; again, not in my usual way of departure.",
+"Since his departure from Bengal in 1764 the situation of affairs in that settlement had scarcely improved.",
+"His approaching departure did not prevent his amusing himself, but rather gave zest to his pleasures.",
+"Natasha remained alone and, from the time Princess Mary began making preparations for departure, held aloof from her too.",
+"He punished the rebellious clergy severely, and ruled the church with an absolute hand till his departure from England in 1218.",
+"It is no ultimate given point of departure; it is due to the reaction of thought upon sensation.",
+"The gaps in the outer tubular stele, however, are formed by the departure of aerial branch-traces, instead of leaf-traces as in the ferns.",
+"wide; and it is now the place of departure and arrival of the mail steamers of the Hamburg-American Steamship Company, who in 1901 transferred here a part of their permanent staff.",
+"See ' Descent of Ishtar to Hades,' Rev. lines 6-10, where universal non-intercourse of sexes follows Ishtar's departure from earth to Hades.",
+"Demeter then returns to Olympus, but before her final departure from earth, in token of her gratitude, she instructs the rulers of Eleusis in the art of agriculture and in the solemnities and rites whereby she desires in future to be honoured.",
+"Isolated by the departure of the papal nuncio from Ireland in February 1649, he made overtures for alliance to Ormonde, and afterwards with success to Monck, who had superseded Monro in command of the parliamentarians in the north.",
+"- After the departure of Caesar, Antipater warned the adherents of Hyrcanus against taking part in any revolutionary attempts, and his son Herod, who, in spite of his youth, had been appointed governor of Galilee, dealt summarily with Hezekiah, the robber captain who was overrunning the adjacent part of Syria.",
+"After the departure of Cassius, Antipater being dead, there was confusion in Judaea.",
+"After the field marshal's departure it appears that we are within sight of the enemy and must give battle.",
+"Before he left he had a long talk with his father about something, and Princess Mary noticed that before his departure they were dissatisfied with one another.",
+"After Metivier's departure the old prince called his daughter in, and the whole weight of his wrath fell on her.",
+"The vascular supply of the leaf (leaf-trace) consists of a single strand only in the haplostelic and some of the more primitive siphonostelic forms. In the microphyllous groups Leaf.trace of Pteridophytes (Lycopodiales and Equisetales) in and Petlolar which the leaves are small relatively to the stem, the Strands, single bundle destined for each leaf is a small strand whose departure causes no disturbance in the cauline stele.",
+"After the departure of Philip, Conrad fomented the opposition of the French to Richard, and even intrigued with Saladin against him.",
+"The countess had fallen asleep and the count, having put off their departure till next morning, went to bed.",
+"The weak parts of this story are the sudden and unexplained departure of the Simons; the subsequent useless cruelty of treating the child like a wild beast and keeping him in a dark room practically out of sight (unless any doubt of his identity was possible), while his sister was in comparative comfort; the cause of death, declared to be of long standing, but in fact developed with such rapidity; the insufficient excuse provided for the child's muteness under Gomin's regime (he had answered Barras) and the irregularities in the formalities in attending the death and the funeral, when a simple identification of the body by Marie Therese would have prevented any question of resuscitated dauphins.",
+"A friend of the family, Lord Foley, provided the funds for his legal training, and he became a member of Lincoln's Inn on his departure from Oxford, being called to the bar in 1730.",
+"I caught MBTA Silver Line to South Station, for my 11:15 departure.",
+"I left word I'd call from the airport in the morning and set my phone alarm in time for my early departure.",
+"Martha asked, showing the first glimmer of interest since being told of her forced departure.",
+"A man, not the usual wimpy social lady, was the culprit who organized the hasty departure.",
+"Following a host of we-should-have-known-better's, the Deans realized there was a silver lining in Pumpkin's hasty departure.",
+"There was no luggage standing by to indicate an imminent departure.",
+"There was a loud bang as the front door slammed with Cynthia's violent departure.",
+"Yet his help was troubling enough to make her look forward to his departure.",
+"Some of his early Mantuan works are in that apartment of the Castello which is termed the Camera degli Sposi - full compositions in fresco, including various portraits of the Gonzaga family, and some figures of genii, &c. In 1488 he went to Rome at the request of Pope Innocent VIII., to paint the frescoes in the chapel of the Belvedere in the Vatican; the marquis of Mantua (Federigo) created him a cavaliere before his departure.",
+"They are placed either on the departure side parallel to the platform (' side ' stations) or at right angles to the rails and platforms (' end ' stations).",
+"About the same time a visit of Jerome to Aquileia led to a close friendship between the two, and shortly after Jerome's departure for the East Rufinus also was drawn thither (in 372 or 373) by his interest in its theology and monasticism.",
+"Many of the inhabitants of the conquered districts, however, still clung to the old connexion, and on the 30th of September 1872 - the day by which the people were required to determine whether they would consider themselves German subjects and remain, or French subjects and transfer their domicile to France-45,000 elected to be still French, and sorrowfully took their departure.",
+"In a subject like economics it must always be very difficult to decide how far a departure from the traditional form and.",
+"The great canal was not begun; irrigation works were started but were soon given up. The letters of Kleber and Menou (the successors of Bonaparte) show that the expenditure on public works had been so reckless that the colony was virtually bankrupt at the time of Bonaparte's departure; and William Hamilton, who travelled through Egypt in 1802, found few traces, other than military, of the French occupation.",
+"Such were his words uttered shortly before his departure from Paris (15th of April).",
+"The early castle, which existed before 1086, was important during the civil wars of Stephen's reign; in 1142 Robert, earl of Gloucester, on his departure for France, committed it to his son's charge.",
+"Charles's departure from Saxony was delayed for twelve months by a quarrel with the emperor.",
+"The importance of this singular but superficial departure from the normal structure has been so needlessly exaggerated as a character that at the present time its value is apt to be unduly depreciated.",
+"It is held in high veneration by the Sinhalese, and numerous pilgrims ascend to the sacred spot, where a priest resides to receive their offerings and bless them on their departure.",
+"Rimmer); and a magnificent bronze bas-relief (1897) by Augustus St Gaudens commemorating the departure from Boston of Colonel Robert G.",
+"Fixing the 15th of August 1096 as the time for the departure of the crusaders, and Constantinople as the general rendezvous, Urban returned from France to Italy.",
+"Meanwhile the principality of Antioch, ruled by Tancred, after the departure of Bohemund (1104-1112), and then by Roger his kinsman (1112-1119), was, during the reign of Baldwin I., busily engaged in disputes both with its Christian neighbours at Edessa and Tripoli, and with the Mahommedan princes of Mardin and Mosul.",
+"The letter of the pope informing Pelagius of this delay is dated the 10th of June: it would probably reach his hands after his departure from Damietta; and thus the Cardinal gave the signal for the march, when, as he thought, the emperor's coming was imminent.",
+"The Christians were, however, able to maintain a footing in Syria for forty years after St Louis' departure, not by reason of their own strength, but owing to two powers which checked the advance of the Mamelukes.",
+"His open-air preaching was accompanied by prayer and singing, a departure from Wesley's practice and the forerunner of the well-known 'Camp Meeting.'",
+"classical Persians, after whose departure the existing north period: its wall was erected in the time of Themistocles; many fortifica- columns, metopes and other fragments from the tions and area.",
+"She was entrusted to the care of the earl of Linlithgow, and after the departure of the royal family to England, to the countess of Kildare, subsequently residing with Lord and Lady Harington at Combe Abbey in Warwickshire.",
+"In 1904 a new departure was made in issuing Annual Reports, containing resumes of the most important researches of the year.",
+"(7) (2) In the first symbol it is assumed that one of the affinities of each of the two central carbon atoms common to the two rings acts into both rings, an assumption involving a somewhat wide departure from all ordinary views as to the manner in which affinity acts.",
+"A departure from the usual regular corolla occurs in Echium and a few allied genera, where it is oblique; in Lycopsis it is also bent.",
+"Obbia, 5° 22' N., and Illig in 7° 60' N., are points of departure for the Ogaden and Dolbahanta countries.",
+"On the departure of the British the government remained in the hands of Toussaint l'Ouverture.",
+"John Clayton, afterwards chaplain of the Collegiate Church of Manchester, who remained a strong High Churchman; James Hervey, author of Meditations among the Tombs, and Theron and Aspasio; Benjamin Ingham, who became the Yorkshire evangelist; and Thomas Broughton, afterwards secretary of the S.P.C.K., were members of the Holy Club, and George Whitefield joined it on the eve of the Wesleys' departure for Georgia.",
+"It affords a point of departure for the interpretation of the genesis of existing instincts.",
+"Speaking at Johannesburg on the eve of his departure, he recommended to all concerned the promotion of the material prosperity of the country and the treatment of Dutch and British on an absolute equality.",
+"Apart from the heavy losses which it imposed on her, it constitutes a fresh departure in her history, as putting an end to her splendid isolation and rendering her dependent on the changes of European politics.",
+"In the political writings of Reshid and `Akif Pashas we have the first clear note of change; but the man to whom more than to any other the new departure owes its success is Shinasi Effendi, who employed it (1859) for poetry as well as for prose.",
+"After their departure, being driven back to the same place by a storm, they were attacked by the Doliones, who did not recognize them, and in a battle which took place Cyzicus was killed by Jason.",
+"After the emperor's departure the cold set in with increased severity, the thermometer falling to 23°.",
+"The British squadrons either stopped the relieving forces at their point of departure, or baffled, when they did not take them, at their landfall.",
+"After the departure of the Romans the walls became ruinous or were partly pulled down, perhaps by sea rovers from the north."
+,"Nominally Henry was subordinate to the lord-deputy, Charles Fleetwood, but Fleetwood's departure for England in September 1655 left him for all practical purposes the ruler of Ireland."
+,"His memoir of his friend Professor Fleeming Jenkin was published soon after his departure."
+,"When Robert's departure for the First Crusade left Normandy in the hands of Rufus (1096) Henry took service under the latter, and he was in the royal hunting train on the day of Rufus's death (August 2nd,."
+,"This acquitted them of blame, and Sir John Moore in the meantime after the departure of Dalrymple (Oct."
+,"When Caesar invaded Britain 54 B.C. they joined him against their domestic rivals and it is possible (though not certain) that half a century after Caesar's departure they succumbed to them."
+,"In spite of the departure of many prominent Hussites the troubles at Prague continued."
+,"Korybutovic, however, remained but a short time in Bohemia; after his departure civil war broke out, the Taborites opposing in arms the more moderate Utraquists, who at this period are also called by the chroniclers the 'Praguers,' as Prague was their principal stronghold."
+,"Other connubial speculations foundered on the personal dislike of the princess for the various suitors proposed to her, so that on the death of her mother (May 1727) and the departure to Holstein of her beloved sister Anne, her only remaining near relation, the princess found herself at the age of eighteen practically her own mistress."
+,"On the departure of Lord Roberts for South Africa the duke succeeded him as commander-in-chief of the forces in Ireland, 9th of January 1900."
+,"The departure of Count Maurice, moreover, had seriously weakened the position of the Dutch, for his successors had neither his conciliatory manners nor his capacity."
+,"With the departure, however, of the sixth James to fill the English throne in 1603, the town lost for a long period its influence and prestige."
+,"It is the point of departure and arrival of the steam ferry to Nyborg on Fiinen, lying on the Hamburg, Schleswig, Fredericia and Copenhagen route."
+,"From them, the official guardians of Hungary's safety, he received no help, either during his governorship (1446-1453), or when, in 1454, on the eve of his departure for his last and most glorious campaign, the diet commanded a levee en masse of the whole population in his support."
+,"2 ' In the same way we may conclude that in flat gratings any departure from a straight line has the effect of causing the dust in the slit and the spectrum to have different foci - a fact sometimes observed ' (Rowland, ' On Concave Gratings for Optical Purposes,' Phil."
+,"The appointment of Burgers to the presidency in 1872 was a new departure."
+,"Lord Roberts held the post of administrator of the colony until his departure for England in December following, when he was succeeded by Sir Alfred Milner, the high commissioner."
+,"Upon his return to Genoa he organized, with Bertani, Bixio, Medici and Garibaldi, the expedition of the Thousand, and overcoming by a stratagem the hesitation of Garibaldi, secured the departure of the expedition on the 5th of May 1860."
+,"Disease we may define, accordingly, as any departure from the normal standard of structure or function of a tissue or organ."
+,"The founding of new teaching universities, in which England, and even France, had been at some disadvantage as compared with Scotland and Germany, strengthened the movement in favour of enlarging and liberalizing technical training, and of anticipating technical instruction by some broader scientific discipline; though, as in all times of transition, something was lost temporarily by a departure from the old discipline of the grammar school before a new scheme of training the mind in scientific habits and conceptions was established or fully apprehended."
+,"But locally and tactically, no real success was obtained by the new arm after the departure of U21."
+,"Had the Turks kept befitting guard on the night of the 8th-9th, aware as they were that their antagonists contemplated departure, they must have detected that the British trenches had been vacated."
+,"He may, also, have had in view the fact that he has prefixed a narrative of the birth and infancy of Jesus and of John and so begun the history at what he considered to be its true point of departure; to this he plainly alludes when he says that he has 'traced the course of all things accurately from the first.'"
+,"In 1222 Florence waged war successfully on Pisa, Lucca and Pistoia, and during the next few years against the Sienese with varying results; although the emperor supported the latter as Ghibellines, on his departure for Germany in 1235 they were forced to accept peace on onerous terms. During the interregnum (1241-1243) following on the death of Pope Gregory IX."
+,"Nejef is also the point of departure from which Persian pilgrims start on the journey to Mecca."
+,"12-13) lies a period during which considerable progress has been made in the local preaching and extension of the gospel, nor does the language of the apostle suggest that this fresh departure in the propaganda was stimulated by the mere novelty of his arrival."
+,"He thus initiated what was known as the 'New Departure' Democratic movement."
+,"The Peruvians in the interior refused to recognize President Iglesias, and at once began active operations to overthrow his authority on the final departure of the Chilean troops."
+,"At the close of his last sermon the undaunted friar publicly announced the day and hour of his departure from Bologna; and his lonely journey on foot over the Apennines was safely accomplished."
+,"of Venice by rail, and is also the point of departure of the main lines to Mantua and Modena and to the Brenner, while a branch line runs N.W."
+,"A traveller can reach the usual point of departure, Gotemba, by rail from Yokohama, and thence the ascent and descent may be made in one day by a pedestrian."
+,"Both of these journals devoted space to social news, a radical departure from the austere restrictions observed by their aristocratic contemporaries."
+,"These internecine disturbances had been unfavourable to any new departure in art, except in matters appertaining to arms and armour, and the strife between two puppet emperors for a shadow of authority in the 14th century brought another distracting element."
+,"There is here little departure from the well-trodden paths of Europe."
+,"This departure from established canons must be traced to the influence of the short-lived academy of Italian art established by the Japanese government early in the Meiji era."
+,"He inaugurated the new departure a few years ago by copying a Gobelin, but it may safely be asserted that no Gobelin will bear comparison with the pieces now produced in Japan."
+,"During the 18th century, a departure was made from these strict canons."
+,"He has not succeeded in winning great distinction, but he manufactures some very delicate monochromes, fully deserving to be classed among prominent evidences of the new departure."
+,"Latest of all to acknowledge the impulse of the new departure have been the potters of Kaga."
+,"Since 1895, again, a totally new departure has been made by Morishita Hachizaemon, a ceramic expert, in conjunction with Shida Yasukyo, president of the Kaga products joint stock company (Kaga bussan kabushiki kaisha) and teacher in the Kaga industrial school."
+,"This new departure reached its climax in the Tokugawa mausolea of Yedo and NikkO, which are enriched by the possession of the most splendid applications of lacquer decoration the world has ever seen, nor is it likely that anything of comparable beauty and grandeur will be again produced in the same line."
+,"The American Quarterly Review (1827-1837), established at Philadelphia by Robert Walsh, came to an end on his departure for Europe."
+,"Orthodoxy is con- Modern formity to the recognized creed or standard of public doctrine; heresy is a wilful departure from it."
+,"Among Protestant churches again there are minor doctrinal differences, which are held with various degrees of exclusiveness or liberality according to the degree of departure from the Roman Catholic Church."
+,"Buddhism is a wide departure in doctrine and practice from Brahmanism, and hence after a swift unfolding and quick spread it was driven out of India and had to find a home in other lands."
+,"The aid which Pyrrhus brought did little good to the Tarentines, and his final departure in 274 left them defenceless."
+,"The introduction of the Augsburg Interim in 1548 necessitated his departure from Nuremberg; he went first to Breslau, and afterwards settled at Konigsberg as professor in its new university at the call of Duke Albert of Prussia."
+,"Within the Church there was a departure from the great experimental truths of the Gospel, their place being taken by the preaching of nature and morality on a theistic basis."
+,"In a brief holiday before his departure he met at Bath Miss Lowther, to whom he became engaged."
+,"In 1543 he quitted Frankfort for a similar position at Leipzig, his contention that it was the duty of the civil magistrate to punish fornication, and his sudden departure, having given offence to the authorities of the former university."
+,"His speech on their departure was uncompromisingly Italian and Liberal."
+,"In the history of Babylonia, the fixed point from which time was reckoned was the era of Nabonassar, 747 B.C. Among the Greeks the reckoning was by Olympiads, the point of departure being the year in which Coroebus was victor in the Olympic Games, 776 B.C. The Roman chronology started from the foundation of the city, the year of which, however, was variously given by different authors."
+,"Before the departure of the Israelites from Egypt their year commenced at the autumnal equinox; but in order to solemnize the memory of their deliverance, the month of Nisan or Abib, in which that event took place, and which falls about the time of the vernal equinox, was afterwards regarded as the beginning of the ecclesiastical or legal year."
+,"The departure from the cave and setting out on the way to Medina is assigned to the ninth day of the third month, Rabia I."
+,"Not long after his departure from Lima, the Bolivian code had been adopted as the constitution of Peru, and Bolivar had been declared president for life on the 9th of December 1826, the anniversary of the battle of Ayacucho."
+,"All things considered, it is not surprising that he was able, without serious opposition from the army, entirely to remodel the military institutions of the empire, and to bring them into a shape from which there was comparatively little departure so long as the army lasted."
+,"How shall we state his point of departure from the middle ages, his sympathy with prevalent classical enthusiasms, his divination of a new period?"
+,"His previous departure is perhaps foreshadowed in vii."
+,"This new commission explains his departure from the plan pursued in the earlier chapters of developing the seventh in each series into a new series of seven."
+,"A committee of the Royal Geographical Society - the deliberations of which were interrupted by the departure on his last voyage of Sir John Franklin, one of the members - suggested these meridians as boundaries; the north and south boundaries of the Atlantic and Pacific Oceans being the polar circles, leaving an Arctic and an Antarctic Ocean to complete the hydrosphere."
+,"Her difficulties were increased by the departure of Mercy for the Hague in September 1790, for Montmorin who now took his place in the negotiations had not her confidence to the same extent.."
+,"- Ignatius, while on his way to Rome to suffer martyrdom, halted at Smyrna and received a warm welcome from the church and its bishop. Upon reaching Troas he despatched two letters, one to the church at Smyrna, another addressed personally to Polycarp. In these letters Ignatius charged Polycarp to write to all the churches between Smyrna and Syria (since his hurried departure from Troas made it impossible for him to do so in person) urging them to send letters and delegates to the church at Antioch to congratulate it upon the cessation of the persecution and to establish it in the faith."
+,"Before Franklin left Paris on the 12th of July 1785 he had made commercial treaties with Sweden (1783) and Prussia (1785; signed after Franklin's departure by Jefferson and John Adams)."
+,"In 1730 he married Deborah Read, in whose father's house he had lived when he had first come to Philadelphia, to whom he had been engaged before his first departure from Philadelphia for London, and who in his absence had married a ne'er-do-well, one Rogers, who had deserted her."
+,"Subsequent to their departure he had opened up relations with the British agent at Zanzibar."
+,"After Colonel Ternan's departure on leave the three companies who had joined Macdonald broke out into revolt in the Nandi district (East Africa) and set off to Uganda, looting the countries they passed through."
+,"The lastnamed work attracted little attention at the time, but now enjoys a great reputation as a new departure in the methods of studying the records of Judaism."
+,"He had resided in England since the rebellion of 1745, and in 1747, a downpour of rain having prevented the departure of Frederick, prince of Wales, from the Egham races, Bute was summoned to his tent to make up a whist party; he immediately gained the favour of the prince and princess, became the leading personage at their court, and in 1750 was appointed by Frederick a lord of his bedchamber."
+,"What is thus suggested is not a rash departure from the general point of view of idealism (by its achievements in every field to which it has been applied, ' stat mole sua ') but a cautious inquiry into the possibility of reaching a conception of the world ' The most striking statement of this argument is to be found in Boutroux's treatise De la contingence des lois de la nature, first published in 1874 and reprinted without alteration in 1905."
+,"It involves, it will be said, the reality of time, the dependence of the Infinite in the finite, and therewith a departure from the whole line of Hegelian thought."
+,"On Hare's departure from Cambridge in 1832, Thirlwall became assistant college tutor, which led him to take a memorable share in the great controversy upon the admission of Dissenters which arose in 1834."
+,"The reasons that compelled their departure determined their quality; they were all men of rigorous consciences, who loved their fatherland much, but religion more, driven from home not by mercantile necessities or ambitions, but solely by their determination to be free to worship God."
+,"After their departure, Mary sees two angels where His body had lain and turning away beholds Jesus standing, yet recognizes Him only when He addresses her."
+,"142) showed that a very small departure from the adiabatic condition would lead to a stifling of the sound quite out of accord with observation."
+,"From Christ's withdrawal with His disciples after their return from their mission to His final departure from Galilee (vi."
+,"In the struggle, although he was bitterly accused of violating the written constitution, of arresting and destroying business prosperity and of attempting a radical departure from the accepted social system of the country, he was remarkably successful."
+,"It is served by most of the Levantine steamship companies, and is the best point of departure for visitors desiring to see Tarsus, the Cilician remains, and the finest scenery of the East Taurus."
+,"The despatch of Florence Nightingale with a staff of trained nurses, to superintend the administration of the military hospitals was the direct result of the publicity given to the details of the Crimean War by The Times, and it formed a new departure which riveted the eyes of the civilized world."
+,"The accuracy of a meter is tested by drawing calibration curves showing the percentage departure from absolute accuracy in its reading for various decimal fractions of full load."
+,"Reduced by the exhausted state of his treasury to the last extremity he at length seriously thought of departure."
+,"The remaining books relate the exploits of Neoptolemus, Eurypylus and Deiphobus, the deaths of Paris and Oenone, the capture of Troy by means of the wooden horse, the sacrifice of Polyxena at the grave of Achilles, the departure of the Greeks, and their dispersal by the storm."
+,"The main object of the Portuguese was to obtain a share in the lucrative spice trade carried on by the Malays, Chinese and Japanese; the trade-routes of the archipelago converged upon Malacca, which was the point of departure for spice merchants trading with every country on the shores of the Indian Ocean and Arabian Sea."
+,"An attempt at an insurrection was made by the inhabitants of Rome even before Otto left the city, and on his departure John returned at the head of a formidable company of friends and retainers, and caused Leo to seek safety in immediate flight."
+,"Vincent Zakrzewski, professor of history at Cracow, has written some works which have attracted considerable attention, such as On the Origin and Growth of the Reformation in Poland, and After the Flight of King Henry, in which he describes the condition of the country during the period between that king's departure from Poland and the election of Stephen Batory."
+,"Near it an obelisk commemorates the departure of George IV."
+,"55 [56]), and from the departure from Ephesus to the end of the two years' captivity at Rome (A.D."
+,"It is regarded as a departure from the worship of Yahweh, although the writer of ver."
+,"On Pandulf's departure the pope was induced to promise that no other legate should be appointed in the lifetime of Archbishop Stephen Langton."
+,"In Italy, by a departure from the traditional policy of the Roman Church, the newly formed 'Pious Society of St Jerome for the Dissemination of the Holy Gospels' issued in 1901 from the Vatican press a new Italian version of the Four Gospels and Acts."
+,"Another defect in the evidence of coins is that, when one variety of the unit of weight was once fixed on for the coinage, there was (barring the depreciation) no departure from it, because of the need of a fixed value, and hence coins do not show the range and character of the real variations of units as do buildings, or vases, or the actual commercial weights."
+,"The social war (90-89 B.C.) had been brought to a close by the enfranchisement of Rome's Italian subjects; and the civil war which followed it led, after the departure of Sulla for the East, to the temporary triumph of the populares, led by Marius and Cinna, and the indiscriminate massacre of their political opponents, including both of Caesar's uncles."
+,"As a point of departure for the history of the development of Gnosticism may be taken the numerous little sects which were apparently first included under the name of ' Gnostics ' in the narrower sense."
+,"Between these rivers the boundary line is determined by the peaks of Tacana, Buenavista and Ixbul, and from the Usumacinta eastward it follows two parallels of latitude, one on the point of departure from that river, and the other, the longer, on that of 1 7° 49' to the British Honduras frontier."
+,"The translation of these Gospels as well as of the Epistles referred to above is stiff and awkward, the translator being evidently afraid of any departure from the Latin text of his original."
+,"The natives cheerfully accepted this new departure in British policy, and from this time forward Khama's country was known as the British protectorate of Bechuanaland."
+,"Previous to his departure for England, Henry bestowed the government on Hugh de Lacy, having granted by charter 'to his subjects of Bristol his city of Dublin to inhabit, and to hold of him and his heirs for ever, with all the liberties and free customs which his subjects of Bristol then enjoyed at Bristol and through all England."
+,"On his departure from Norway in 1000, the king commissioned him to proclaim Christianity in Greenland."
+,"This passion finds its clearest expression in the Latin poems. Faustine was guarded by an old and jealous husband, and du Bellay's eventual conquest may have had something to do with his departure for Paris at the end of August 1557."
+,"REMONSTRANTS, the name given to those Dutch Protestants who, after the death of Arminius, maintained the views associated with his name, and in 1610 presented to the states of Holland and Friesland a ' remonstrance in five articles formulating their points of departure from stricter Calvinism.'"
+,"The self-contradictory character of the present world forms the point of departure for Mani's speculations."
+,"The departure of the Ordovician life from that of the Cambrian was perhaps most pronounced in the great development of the molluscs and crinoids (including cystoids), but corals were also abundant for the first time, and graptolites came into prominence."
+,"A similar plan, differing in some details, was subsequently introduced in the city of Des Moines, in Iowa; and the success which has attended this new departure in both cities has led to its adoption in many others, especially, but not exclusively,in the Western states."
+,"After the departure of Agamemnon to the Trojan war, Aegisthus seduced his wife Clytaemnestra (more correctly Clytaemestra) and with her assistance slew him on his return."
+,"The size and character of this house, probably, at the time of its erection, the most spacious house of a subject in the kingdom, not a castle, bespeaks the wide departure of the Cistercian order from the stern simplicity of the original foundation."
+,"A new departure, however, was made by Willebrord Snell of Leiden in his Cyclometria, published in 1621."
+,"On the landing of Pyrrhus in Italy (281 B.C.) they were among the first to declare in his favour, and found themselves exposed to the resentment of Rome when the departure of Pyrrhus left his allies at the mercy of the Romans."
+,"His departure was accelerated by a decree of expulsion as a conspirator (1811)."
+,"On Lord Ripon's departure from India in November 1884 there were extraordinary manifestations in his favour on the part of the Hindu population of Bengal and Bombay, and more than a thousand addresses were presented to him."
+,"Aristotle'S Life This account is practically repeated by Diogenes Laertius in his Life of Aristotle, on the authority of the Chronicles of Apollodorus, who lived in the 2nd century B.C. Starting then from this tradition, near enough to the time, we can confidently divide Aristotle's career into four periods: his youth under his parents till his eighteenth year; his philosophical education under Plato at Athens till his thirty-eighth year; his travels in the Greek world till his fiftieth year; and his philosophical teaching in the Lyceum till his departure to Chalcis and his death in his sixtythird year."
+,"He rejected the Platonic hypothesis of forms, and affirmed that they are not separate but common, without however as yet having advanced to a constructive metaphysics of his own; while at the same time, after having at first adopted his master's dialectical treatment of metaphysical problems, he soon passed from dialogues to didactic works,, which had the result of separating metaphysics from dialectic. The all-important consequence of this first departure from Platonism was that Aristotle became and remained primarily a metaphysician."]
 
-
-for x in sentenceNLP:
-    print(x)
+d_sentences=["But after Bennigsen's departure, the Grand Duke Tsarevich Constantine Pavlovich joined the army.",
+"He failed to acknowledge my departure as I returned to our room.",
+"They too beat a hasty departure for the downstairs.",
+"Actually, I was considering a departure from my usual costume.",
+"He raised the topic as much to take Cynthia's mind off Martha's departure as from any serious concern about the old man.",
+"But the countess' health obliged them to delay their departure from day to day.",
+"As if it were yesterday I remember the preparations, the departure with my teacher and my mother, the journey, and finally the arrival in Boston.",
+"Every plant is constrained to carry Out its functions of germination, growth, nutrition, reproduction, &c., between certain limits of temperature, and somewhere between the extremes of these limits each function finds ao optimum temperature at which the working of the living machinery is at its best, and, other things being equal, any great departure from this may induce pathological conditions; and many disasters are due to the failure to provide such suitable temperaturese.g.",
+"This new departure she lost no time in proclaiming to the world.",
+"She walked towards her quarters, uncertain why his departure bothered her.",
+"Betsy remained down in the dumps over Martha's departure but per usual, she successfully researched the Internet and found directions to eight different camping parks in the area.",
+"According to Suidas, Plato, on his departure for Sicily, left his pupils in charge of Heraclides.",
+"I hurried the preparations for our departure as much as possible, and here we are.",
+"This third Late Minoan period - the beginning of which may be fixed about 1400 - is an age of stagnation and decline, but the point of departure continued to be the models supplied by the age that had preceded it.",
+"In the confusion of the group's departure, a carload of ice climbers arrived to register.",
+"While the old gent's hasty departure was out of character, his rapid exit caused the Deans no concern.",
+"But a fortnight after his departure, to the surprise of those around her, she recovered from her mental sickness just as suddenly and became her old self again, but with a change in her moral physiognomy, as a child gets up after a long illness with a changed expression of face.",
+"Donald Ryland and Franny Mulligan were checking out this evening, as soon as he returned with Donnie, followed by the Quincy sisters scheduled departure in the morning.",
+"Such a break is known as a leaf-gap. A little above the departure of the leaf-bundle the stele again closes up only to be again broken by the departure of the next leaf-bundle.",
+"Only a few days after their departure Sir Richard Grenville arrived with supplies and more colonists, fifteen of whom remained when he sailed away.",
+"In the few hours remaining before his departure, her head was so far in the clouds that she didn't even notice he said nothing about marriage.",
+"Petya, having left his people after their departure from Moscow, joined his regiment and was soon taken as orderly by a general commanding a large guerrilla detachment.",
+"Dean felt satisfaction that his wife's dark mood had improved, but Martha's departure remained on her mind.",
+"One had her form under my house all winter, separated from me only by the flooring, and she startled me each morning by her hasty departure when I began to stir--thump, thump, thump, striking her head against the floor timbers in her hurry.",
+"The old man made a departure from his usual routine in honor of his son's arrival: he gave orders to admit him to his apartments while he dressed for dinner.",
+"Moreover, whatever the value of Goethe's labours in that field, they were not published before 1820, long after evolutionism had taken a new departure from the works of Treviranus and Lamarck - the first of its advocates who were equipped for their task with the needful large and accurate knowledge of the phenomena of life as a whole.",
+"But while himself remaining, he gave instructions for the departure of the princess and Dessalles with the little prince to Bogucharovo and thence to Moscow.",
+"After a sneaky backdoor departure and stop at the variety store for their purchases the couple was on their way.",
+"His leave-taking of Andromache in the sixth book of the Iliad, and his departure to meet Achilles for the last time, are most touchingly described.",
+"In Dublin, whither he proceeded with Mountjoy, he heard of the accession of King James, at whose court he presented himself in June accompanied by Rory O'Donnell, who had become chief of the O'Donnells after the departure of his brother Hugh Roe.",
+"And when after Pierre's departure Helene returned to Petersburg, she was received by all her acquaintances not only cordially, but even with a shade of deference due to her misfortune.",
+"In the megaphyllous forms, on the other hand, (Ferns) whose leaves are large relatively to the stem, the departure of the correspondingly large trace causes a gap (leaf-gap) in the vascular cylinder, as already described.",
+"A few days before his departure a special thanksgiving, at which Nicholas was present, was held in the cathedral for the Russian victory.",
+"The departure left husband Joseph in an even surlier mood than usual, and he growled his way through breakfast.",
+"The plane was scheduled to leave in 45 minutes but one look at the departure board was indicative of things to come.",
+"Kant had fewer isolated points of departure than intuitionalists; yet gaps and isolation recurred in Kant, and helped to make him the father of modern agnosticism.",
+"These commentaries may be described as to a certain extent a new departure in New Testament exegesis.",
+"Having repeated her order to Dron to have horses ready for her departure next morning, she went to her room and remained alone with her own thoughts.",
+"The news of that battle of Tarutino, unexpectedly received by Napoleon at a review, evoked in him a desire to punish the Russians (Thiers says), and he issued the order for departure which the whole army was demanding.",
+"In Proclus we find this conception of an emanation of the world out of the Deity, or the absolute, made more exact, the process being regarded as threefold-0) persistence of cause in effect, (2) the departure of effect from cause, and (3) the tendency of effect to revert to its cause.",
+"Inversnaid is the point of arrival and departure for the Trossachs coaches, and here, too, there is a graceful waterfall, fed by the Arklet from the loch of that name, 22 m.",
+"The only element of real strength that the statute acquired during the first twenty years of its history came from the Elkins Act of 1903, which stipulated that the published rate should be the legal rate, and declared any departure from the published rate to be a misdemeanour.",
+"These in turn converge to a pair of single lines which lead to two groups of marshalling sidings, called ' gridirons ' from their shape, and these again converge to single lines leading to ' lower reception and departure lines ' at the bottom of the slope.",
+"This was a departure from the customs of the age, and was perhaps influenced less by generosity than by expediency.",
+" By this new departure (19th of October 1781) the Jews were permitted to learn handicrafts, arts and sciences, and with certain restrictions to devote themselves to agriculture.",
+"And lastly, the final departure of the great Emperor from his heroic army is presented to us by the historians as something great and characteristic of genius.",
+"Princess Mary put off her departure, and for three weeks looked after Natasha as if she had been a sick child.",
+"I will confess to you, dear Mary, that in spite of his extreme youth his departure for the army was a great grief to me.",
+"Two days after the departure of the Simons the prisoner is said by the Restoration historians to have been put in a dark room which was barricaded like the cage of a wild animal.",
+"According to the official returns,' the over-sea immigration for the forty-seven years 1857-1903 aggregated 2,872,588, while the departure of emigrants during the same period was 1,066,480, showing a net addition to the population of 1,806,108.",
+"In the principal towns letters may be posted in special boxes at the head office just before the departure of any given mail train, and are conveyed direct to the travelling post office.",
+"Until he knew exactly what had happened in Lydia's apartment and the details of Fitzgerald's departure anything was possible.",
+"These furrows have apparently been cut in situ with a very accurate engine; for not the slightest departure from parallelism can be detected in any of the movable webs relative to the fixed webs.",
+"On his release he had promised he would maintain the treaty of Arras and withdraw from the Netherlands; but he delayed his departure for nearly a year and took part in a punitive campaign against his captors and their allies.",
+"Having written this and given the paper to Alpatych, he told him how to arrange for departure of the prince, the princess, his son, and the boy's tutor, and how and where to let him know immediately.",
+"The other, from the countess, described their last days in Moscow, their departure, the fire, and the destruction of all their property.",
+"In 664 at the synod of Whitby, Oswio accepted the usages of the Roman Church, which led to the departure of Colman and the appointment of Wilfrid as bishop of York.",
+"And Prince Andrew after giving directions about his departure went to his room.",
+"When later on in his memoirs Count Rostopchin explained his actions at this time, he repeatedly says that he was then actuated by two important considerations: to maintain tranquillity in Moscow and expedite the departure of the inhabitants.",
+"After the departure of the Greek troops the Cretan leaders, who had hitherto demanded annexation to Greece, readily acquiesced in the decision of the powers, and the insurgent Assembly, under its president Dr Sphakianakis, a man of good sense and moderation, co-operated with the international commanders in the maintenance of order.",
+"After Denisov's departure, Rostov spent another fortnight in Moscow, without going out of the house, waiting for the money his father could not at once raise, and he spent most of his time in the girls' room.",
+"During that year after his son's departure, Prince Nicholas Bolkonski's health and temper became much worse.",
+"Some days after Anatole's departure Pierre received a note from Prince Andrew, informing him of his arrival and asking him to come to see him.",
+"Soon after the duke's departure--before he could possibly have reached Semenovsk--his adjutant came back from him and told Kutuzov that the duke asked for more troops.",
+"Owing to the count's customary carelessness nothing was ready for their departure by the twenty-eighth of August and the carts that were to come from their Ryazan and Moscow estates to remove their household belongings did not arrive till the thirtieth.",
+"Yet the new departure then made did not lead far.",
+"And I'm gone too; again, not in my usual way of departure.",
+"Since his departure from Bengal in 1764 the situation of affairs in that settlement had scarcely improved.",
+"His approaching departure did not prevent his amusing himself, but rather gave zest to his pleasures.",
+"Natasha remained alone and, from the time Princess Mary began making preparations for departure, held aloof from her too.",
+"He punished the rebellious clergy severely, and ruled the church with an absolute hand till his departure from England in 1218.",
+"It is no ultimate given point of departure; it is due to the reaction of thought upon sensation.",
+"The gaps in the outer tubular stele, however, are formed by the departure of aerial branch-traces, instead of leaf-traces as in the ferns.",
+"wide; and it is now the place of departure and arrival of the mail steamers of the Hamburg-American Steamship Company, who in 1901 transferred here a part of their permanent staff.",
+"See ' Descent of Ishtar to Hades,' Rev. lines 6-10, where universal non-intercourse of sexes follows Ishtar's departure from earth to Hades.",
+"Demeter then returns to Olympus, but before her final departure from earth, in token of her gratitude, she instructs the rulers of Eleusis in the art of agriculture and in the solemnities and rites whereby she desires in future to be honoured.",
+"Isolated by the departure of the papal nuncio from Ireland in February 1649, he made overtures for alliance to Ormonde, and afterwards with success to Monck, who had superseded Monro in command of the parliamentarians in the north.",
+"- After the departure of Caesar, Antipater warned the adherents of Hyrcanus against taking part in any revolutionary attempts, and his son Herod, who, in spite of his youth, had been appointed governor of Galilee, dealt summarily with Hezekiah, the robber captain who was overrunning the adjacent part of Syria.",
+"After the departure of Cassius, Antipater being dead, there was confusion in Judaea.",
+"After the field marshal's departure it appears that we are within sight of the enemy and must give battle.",
+"Before he left he had a long talk with his father about something, and Princess Mary noticed that before his departure they were dissatisfied with one another.",
+"After Metivier's departure the old prince called his daughter in, and the whole weight of his wrath fell on her.",
+"The vascular supply of the leaf (leaf-trace) consists of a single strand only in the haplostelic and some of the more primitive siphonostelic forms. In the microphyllous groups Leaf.trace of Pteridophytes (Lycopodiales and Equisetales) in and Petlolar which the leaves are small relatively to the stem, the Strands, single bundle destined for each leaf is a small strand whose departure causes no disturbance in the cauline stele.",
+"After the departure of Philip, Conrad fomented the opposition of the French to Richard, and even intrigued with Saladin against him.",
+"The countess had fallen asleep and the count, having put off their departure till next morning, went to bed.",
+"The weak parts of this story are the sudden and unexplained departure of the Simons; the subsequent useless cruelty of treating the child like a wild beast and keeping him in a dark room practically out of sight (unless any doubt of his identity was possible), while his sister was in comparative comfort; the cause of death, declared to be of long standing, but in fact developed with such rapidity; the insufficient excuse provided for the child's muteness under Gomin's regime (he had answered Barras) and the irregularities in the formalities in attending the death and the funeral, when a simple identification of the body by Marie Therese would have prevented any question of resuscitated dauphins.",
+"A friend of the family, Lord Foley, provided the funds for his legal training, and he became a member of Lincoln's Inn on his departure from Oxford, being called to the bar in 1730.",
+"I caught MBTA Silver Line to South Station, for my 11:15 departure.",
+"I left word I'd call from the airport in the morning and set my phone alarm in time for my early departure.",
+"Martha asked, showing the first glimmer of interest since being told of her forced departure.",
+"A man, not the usual wimpy social lady, was the culprit who organized the hasty departure.",
+"Following a host of we-should-have-known-better's, the Deans realized there was a silver lining in Pumpkin's hasty departure.",
+"There was no luggage standing by to indicate an imminent departure.",
+"There was a loud bang as the front door slammed with Cynthia's violent departure.",
+"Yet his help was troubling enough to make her look forward to his departure.",
+"Some of his early Mantuan works are in that apartment of the Castello which is termed the Camera degli Sposi - full compositions in fresco, including various portraits of the Gonzaga family, and some figures of genii, &c. In 1488 he went to Rome at the request of Pope Innocent VIII., to paint the frescoes in the chapel of the Belvedere in the Vatican; the marquis of Mantua (Federigo) created him a cavaliere before his departure.",
+"They are placed either on the departure side parallel to the platform (' side ' stations) or at right angles to the rails and platforms (' end ' stations).",
+"About the same time a visit of Jerome to Aquileia led to a close friendship between the two, and shortly after Jerome's departure for the East Rufinus also was drawn thither (in 372 or 373) by his interest in its theology and monasticism.",
+"Many of the inhabitants of the conquered districts, however, still clung to the old connexion, and on the 30th of September 1872 - the day by which the people were required to determine whether they would consider themselves German subjects and remain, or French subjects and transfer their domicile to France-45,000 elected to be still French, and sorrowfully took their departure.",
+"In a subject like economics it must always be very difficult to decide how far a departure from the traditional form and.",
+"The great canal was not begun; irrigation works were started but were soon given up. The letters of Kleber and Menou (the successors of Bonaparte) show that the expenditure on public works had been so reckless that the colony was virtually bankrupt at the time of Bonaparte's departure; and William Hamilton, who travelled through Egypt in 1802, found few traces, other than military, of the French occupation.",
+"Such were his words uttered shortly before his departure from Paris (15th of April).",
+"The early castle, which existed before 1086, was important during the civil wars of Stephen's reign; in 1142 Robert, earl of Gloucester, on his departure for France, committed it to his son's charge.",
+"Charles's departure from Saxony was delayed for twelve months by a quarrel with the emperor.",
+"The importance of this singular but superficial departure from the normal structure has been so needlessly exaggerated as a character that at the present time its value is apt to be unduly depreciated.",
+"It is held in high veneration by the Sinhalese, and numerous pilgrims ascend to the sacred spot, where a priest resides to receive their offerings and bless them on their departure.",
+"Rimmer); and a magnificent bronze bas-relief (1897) by Augustus St Gaudens commemorating the departure from Boston of Colonel Robert G.",
+"Fixing the 15th of August 1096 as the time for the departure of the crusaders, and Constantinople as the general rendezvous, Urban returned from France to Italy.",
+"Meanwhile the principality of Antioch, ruled by Tancred, after the departure of Bohemund (1104-1112), and then by Roger his kinsman (1112-1119), was, during the reign of Baldwin I., busily engaged in disputes both with its Christian neighbours at Edessa and Tripoli, and with the Mahommedan princes of Mardin and Mosul.",
+"The letter of the pope informing Pelagius of this delay is dated the 10th of June: it would probably reach his hands after his departure from Damietta; and thus the Cardinal gave the signal for the march, when, as he thought, the emperor's coming was imminent.",
+"The Christians were, however, able to maintain a footing in Syria for forty years after St Louis' departure, not by reason of their own strength, but owing to two powers which checked the advance of the Mamelukes.",
+"His open-air preaching was accompanied by prayer and singing, a departure from Wesley's practice and the forerunner of the well-known 'Camp Meeting.'",
+"classical Persians, after whose departure the existing north period: its wall was erected in the time of Themistocles; many fortifica- columns, metopes and other fragments from the tions and area.",
+"She was entrusted to the care of the earl of Linlithgow, and after the departure of the royal family to England, to the countess of Kildare, subsequently residing with Lord and Lady Harington at Combe Abbey in Warwickshire.",
+"In 1904 a new departure was made in issuing Annual Reports, containing resumes of the most important researches of the year.",
+"(7) (2) In the first symbol it is assumed that one of the affinities of each of the two central carbon atoms common to the two rings acts into both rings, an assumption involving a somewhat wide departure from all ordinary views as to the manner in which affinity acts.",
+"A departure from the usual regular corolla occurs in Echium and a few allied genera, where it is oblique; in Lycopsis it is also bent.",
+"Obbia, 5° 22' N., and Illig in 7° 60' N., are points of departure for the Ogaden and Dolbahanta countries.",
+"On the departure of the British the government remained in the hands of Toussaint l'Ouverture.",
+"John Clayton, afterwards chaplain of the Collegiate Church of Manchester, who remained a strong High Churchman; James Hervey, author of Meditations among the Tombs, and Theron and Aspasio; Benjamin Ingham, who became the Yorkshire evangelist; and Thomas Broughton, afterwards secretary of the S.P.C.K., were members of the Holy Club, and George Whitefield joined it on the eve of the Wesleys' departure for Georgia.",
+"It affords a point of departure for the interpretation of the genesis of existing instincts.",
+"Speaking at Johannesburg on the eve of his departure, he recommended to all concerned the promotion of the material prosperity of the country and the treatment of Dutch and British on an absolute equality.",
+"Apart from the heavy losses which it imposed on her, it constitutes a fresh departure in her history, as putting an end to her splendid isolation and rendering her dependent on the changes of European politics.",
+"In the political writings of Reshid and `Akif Pashas we have the first clear note of change; but the man to whom more than to any other the new departure owes its success is Shinasi Effendi, who employed it (1859) for poetry as well as for prose.",
+"After their departure, being driven back to the same place by a storm, they were attacked by the Doliones, who did not recognize them, and in a battle which took place Cyzicus was killed by Jason.",
+"After the emperor's departure the cold set in with increased severity, the thermometer falling to 23°.",
+"The British squadrons either stopped the relieving forces at their point of departure, or baffled, when they did not take them, at their landfall.",
+"After the departure of the Romans the walls became ruinous or were partly pulled down, perhaps by sea rovers from the north."
+,"Nominally Henry was subordinate to the lord-deputy, Charles Fleetwood, but Fleetwood's departure for England in September 1655 left him for all practical purposes the ruler of Ireland."
+,"His memoir of his friend Professor Fleeming Jenkin was published soon after his departure."
+,"When Robert's departure for the First Crusade left Normandy in the hands of Rufus (1096) Henry took service under the latter, and he was in the royal hunting train on the day of Rufus's death (August 2nd,."
+,"This acquitted them of blame, and Sir John Moore in the meantime after the departure of Dalrymple (Oct."
+,"When Caesar invaded Britain 54 B.C. they joined him against their domestic rivals and it is possible (though not certain) that half a century after Caesar's departure they succumbed to them."
+,"In spite of the departure of many prominent Hussites the troubles at Prague continued."
+,"Korybutovic, however, remained but a short time in Bohemia; after his departure civil war broke out, the Taborites opposing in arms the more moderate Utraquists, who at this period are also called by the chroniclers the 'Praguers,' as Prague was their principal stronghold."
+,"Other connubial speculations foundered on the personal dislike of the princess for the various suitors proposed to her, so that on the death of her mother (May 1727) and the departure to Holstein of her beloved sister Anne, her only remaining near relation, the princess found herself at the age of eighteen practically her own mistress."
+,"On the departure of Lord Roberts for South Africa the duke succeeded him as commander-in-chief of the forces in Ireland, 9th of January 1900."
+,"The departure of Count Maurice, moreover, had seriously weakened the position of the Dutch, for his successors had neither his conciliatory manners nor his capacity."
+,"With the departure, however, of the sixth James to fill the English throne in 1603, the town lost for a long period its influence and prestige."
+,"It is the point of departure and arrival of the steam ferry to Nyborg on Fiinen, lying on the Hamburg, Schleswig, Fredericia and Copenhagen route."
+,"From them, the official guardians of Hungary's safety, he received no help, either during his governorship (1446-1453), or when, in 1454, on the eve of his departure for his last and most glorious campaign, the diet commanded a levee en masse of the whole population in his support."
+,"2 ' In the same way we may conclude that in flat gratings any departure from a straight line has the effect of causing the dust in the slit and the spectrum to have different foci - a fact sometimes observed ' (Rowland, ' On Concave Gratings for Optical Purposes,' Phil."
+,"The appointment of Burgers to the presidency in 1872 was a new departure."
+,"Lord Roberts held the post of administrator of the colony until his departure for England in December following, when he was succeeded by Sir Alfred Milner, the high commissioner."
+,"Upon his return to Genoa he organized, with Bertani, Bixio, Medici and Garibaldi, the expedition of the Thousand, and overcoming by a stratagem the hesitation of Garibaldi, secured the departure of the expedition on the 5th of May 1860."
+,"Disease we may define, accordingly, as any departure from the normal standard of structure or function of a tissue or organ."
+,"The founding of new teaching universities, in which England, and even France, had been at some disadvantage as compared with Scotland and Germany, strengthened the movement in favour of enlarging and liberalizing technical training, and of anticipating technical instruction by some broader scientific discipline; though, as in all times of transition, something was lost temporarily by a departure from the old discipline of the grammar school before a new scheme of training the mind in scientific habits and conceptions was established or fully apprehended."
+,"But locally and tactically, no real success was obtained by the new arm after the departure of U21."
+,"Had the Turks kept befitting guard on the night of the 8th-9th, aware as they were that their antagonists contemplated departure, they must have detected that the British trenches had been vacated."
+,"He may, also, have had in view the fact that he has prefixed a narrative of the birth and infancy of Jesus and of John and so begun the history at what he considered to be its true point of departure; to this he plainly alludes when he says that he has 'traced the course of all things accurately from the first.'"
+,"In 1222 Florence waged war successfully on Pisa, Lucca and Pistoia, and during the next few years against the Sienese with varying results; although the emperor supported the latter as Ghibellines, on his departure for Germany in 1235 they were forced to accept peace on onerous terms. During the interregnum (1241-1243) following on the death of Pope Gregory IX."
+,"Nejef is also the point of departure from which Persian pilgrims start on the journey to Mecca."
+,"12-13) lies a period during which considerable progress has been made in the local preaching and extension of the gospel, nor does the language of the apostle suggest that this fresh departure in the propaganda was stimulated by the mere novelty of his arrival."
+,"He thus initiated what was known as the 'New Departure' Democratic movement."
+,"The Peruvians in the interior refused to recognize President Iglesias, and at once began active operations to overthrow his authority on the final departure of the Chilean troops."
+,"At the close of his last sermon the undaunted friar publicly announced the day and hour of his departure from Bologna; and his lonely journey on foot over the Apennines was safely accomplished."
+,"of Venice by rail, and is also the point of departure of the main lines to Mantua and Modena and to the Brenner, while a branch line runs N.W."
+,"A traveller can reach the usual point of departure, Gotemba, by rail from Yokohama, and thence the ascent and descent may be made in one day by a pedestrian."
+,"Both of these journals devoted space to social news, a radical departure from the austere restrictions observed by their aristocratic contemporaries."
+,"These internecine disturbances had been unfavourable to any new departure in art, except in matters appertaining to arms and armour, and the strife between two puppet emperors for a shadow of authority in the 14th century brought another distracting element."
+,"There is here little departure from the well-trodden paths of Europe."
+,"This departure from established canons must be traced to the influence of the short-lived academy of Italian art established by the Japanese government early in the Meiji era."
+,"He inaugurated the new departure a few years ago by copying a Gobelin, but it may safely be asserted that no Gobelin will bear comparison with the pieces now produced in Japan."
+,"During the 18th century, a departure was made from these strict canons."
+,"He has not succeeded in winning great distinction, but he manufactures some very delicate monochromes, fully deserving to be classed among prominent evidences of the new departure."
+,"Latest of all to acknowledge the impulse of the new departure have been the potters of Kaga."
+,"Since 1895, again, a totally new departure has been made by Morishita Hachizaemon, a ceramic expert, in conjunction with Shida Yasukyo, president of the Kaga products joint stock company (Kaga bussan kabushiki kaisha) and teacher in the Kaga industrial school."
+,"This new departure reached its climax in the Tokugawa mausolea of Yedo and NikkO, which are enriched by the possession of the most splendid applications of lacquer decoration the world has ever seen, nor is it likely that anything of comparable beauty and grandeur will be again produced in the same line."
+,"The American Quarterly Review (1827-1837), established at Philadelphia by Robert Walsh, came to an end on his departure for Europe."
+,"Orthodoxy is con- Modern formity to the recognized creed or standard of public doctrine; heresy is a wilful departure from it."
+,"Among Protestant churches again there are minor doctrinal differences, which are held with various degrees of exclusiveness or liberality according to the degree of departure from the Roman Catholic Church."
+,"Buddhism is a wide departure in doctrine and practice from Brahmanism, and hence after a swift unfolding and quick spread it was driven out of India and had to find a home in other lands."
+,"The aid which Pyrrhus brought did little good to the Tarentines, and his final departure in 274 left them defenceless."
+,"The introduction of the Augsburg Interim in 1548 necessitated his departure from Nuremberg; he went first to Breslau, and afterwards settled at Konigsberg as professor in its new university at the call of Duke Albert of Prussia."
+,"Within the Church there was a departure from the great experimental truths of the Gospel, their place being taken by the preaching of nature and morality on a theistic basis."
+,"In a brief holiday before his departure he met at Bath Miss Lowther, to whom he became engaged."
+,"In 1543 he quitted Frankfort for a similar position at Leipzig, his contention that it was the duty of the civil magistrate to punish fornication, and his sudden departure, having given offence to the authorities of the former university."
+,"His speech on their departure was uncompromisingly Italian and Liberal."
+,"In the history of Babylonia, the fixed point from which time was reckoned was the era of Nabonassar, 747 B.C. Among the Greeks the reckoning was by Olympiads, the point of departure being the year in which Coroebus was victor in the Olympic Games, 776 B.C. The Roman chronology started from the foundation of the city, the year of which, however, was variously given by different authors."
+,"Before the departure of the Israelites from Egypt their year commenced at the autumnal equinox; but in order to solemnize the memory of their deliverance, the month of Nisan or Abib, in which that event took place, and which falls about the time of the vernal equinox, was afterwards regarded as the beginning of the ecclesiastical or legal year."
+,"The departure from the cave and setting out on the way to Medina is assigned to the ninth day of the third month, Rabia I."
+,"Not long after his departure from Lima, the Bolivian code had been adopted as the constitution of Peru, and Bolivar had been declared president for life on the 9th of December 1826, the anniversary of the battle of Ayacucho."
+,"All things considered, it is not surprising that he was able, without serious opposition from the army, entirely to remodel the military institutions of the empire, and to bring them into a shape from which there was comparatively little departure so long as the army lasted."
+,"How shall we state his point of departure from the middle ages, his sympathy with prevalent classical enthusiasms, his divination of a new period?"
+,"His previous departure is perhaps foreshadowed in vii."
+,"This new commission explains his departure from the plan pursued in the earlier chapters of developing the seventh in each series into a new series of seven."
+,"A committee of the Royal Geographical Society - the deliberations of which were interrupted by the departure on his last voyage of Sir John Franklin, one of the members - suggested these meridians as boundaries; the north and south boundaries of the Atlantic and Pacific Oceans being the polar circles, leaving an Arctic and an Antarctic Ocean to complete the hydrosphere."
+,"Her difficulties were increased by the departure of Mercy for the Hague in September 1790, for Montmorin who now took his place in the negotiations had not her confidence to the same extent.."
+,"- Ignatius, while on his way to Rome to suffer martyrdom, halted at Smyrna and received a warm welcome from the church and its bishop. Upon reaching Troas he despatched two letters, one to the church at Smyrna, another addressed personally to Polycarp. In these letters Ignatius charged Polycarp to write to all the churches between Smyrna and Syria (since his hurried departure from Troas made it impossible for him to do so in person) urging them to send letters and delegates to the church at Antioch to congratulate it upon the cessation of the persecution and to establish it in the faith."
+,"Before Franklin left Paris on the 12th of July 1785 he had made commercial treaties with Sweden (1783) and Prussia (1785; signed after Franklin's departure by Jefferson and John Adams)."
+,"In 1730 he married Deborah Read, in whose father's house he had lived when he had first come to Philadelphia, to whom he had been engaged before his first departure from Philadelphia for London, and who in his absence had married a ne'er-do-well, one Rogers, who had deserted her."
+,"Subsequent to their departure he had opened up relations with the British agent at Zanzibar."
+,"After Colonel Ternan's departure on leave the three companies who had joined Macdonald broke out into revolt in the Nandi district (East Africa) and set off to Uganda, looting the countries they passed through."
+,"The lastnamed work attracted little attention at the time, but now enjoys a great reputation as a new departure in the methods of studying the records of Judaism."
+,"He had resided in England since the rebellion of 1745, and in 1747, a downpour of rain having prevented the departure of Frederick, prince of Wales, from the Egham races, Bute was summoned to his tent to make up a whist party; he immediately gained the favour of the prince and princess, became the leading personage at their court, and in 1750 was appointed by Frederick a lord of his bedchamber."
+,"What is thus suggested is not a rash departure from the general point of view of idealism (by its achievements in every field to which it has been applied, ' stat mole sua ') but a cautious inquiry into the possibility of reaching a conception of the world ' The most striking statement of this argument is to be found in Boutroux's treatise De la contingence des lois de la nature, first published in 1874 and reprinted without alteration in 1905."
+,"It involves, it will be said, the reality of time, the dependence of the Infinite in the finite, and therewith a departure from the whole line of Hegelian thought."
+,"On Hare's departure from Cambridge in 1832, Thirlwall became assistant college tutor, which led him to take a memorable share in the great controversy upon the admission of Dissenters which arose in 1834."
+,"The reasons that compelled their departure determined their quality; they were all men of rigorous consciences, who loved their fatherland much, but religion more, driven from home not by mercantile necessities or ambitions, but solely by their determination to be free to worship God."
+,"After their departure, Mary sees two angels where His body had lain and turning away beholds Jesus standing, yet recognizes Him only when He addresses her."
+,"142) showed that a very small departure from the adiabatic condition would lead to a stifling of the sound quite out of accord with observation."
+,"From Christ's withdrawal with His disciples after their return from their mission to His final departure from Galilee (vi."
+,"In the struggle, although he was bitterly accused of violating the written constitution, of arresting and destroying business prosperity and of attempting a radical departure from the accepted social system of the country, he was remarkably successful."
+,"It is served by most of the Levantine steamship companies, and is the best point of departure for visitors desiring to see Tarsus, the Cilician remains, and the finest scenery of the East Taurus."
+,"The despatch of Florence Nightingale with a staff of trained nurses, to superintend the administration of the military hospitals was the direct result of the publicity given to the details of the Crimean War by The Times, and it formed a new departure which riveted the eyes of the civilized world."
+,"The accuracy of a meter is tested by drawing calibration curves showing the percentage departure from absolute accuracy in its reading for various decimal fractions of full load."
+,"Reduced by the exhausted state of his treasury to the last extremity he at length seriously thought of departure."
+,"The remaining books relate the exploits of Neoptolemus, Eurypylus and Deiphobus, the deaths of Paris and Oenone, the capture of Troy by means of the wooden horse, the sacrifice of Polyxena at the grave of Achilles, the departure of the Greeks, and their dispersal by the storm."
+,"The main object of the Portuguese was to obtain a share in the lucrative spice trade carried on by the Malays, Chinese and Japanese; the trade-routes of the archipelago converged upon Malacca, which was the point of departure for spice merchants trading with every country on the shores of the Indian Ocean and Arabian Sea."
+,"An attempt at an insurrection was made by the inhabitants of Rome even before Otto left the city, and on his departure John returned at the head of a formidable company of friends and retainers, and caused Leo to seek safety in immediate flight."
+,"Vincent Zakrzewski, professor of history at Cracow, has written some works which have attracted considerable attention, such as On the Origin and Growth of the Reformation in Poland, and After the Flight of King Henry, in which he describes the condition of the country during the period between that king's departure from Poland and the election of Stephen Batory."
+,"Near it an obelisk commemorates the departure of George IV."
+,"55 [56]), and from the departure from Ephesus to the end of the two years' captivity at Rome (A.D."
+,"It is regarded as a departure from the worship of Yahweh, although the writer of ver."
+,"On Pandulf's departure the pope was induced to promise that no other legate should be appointed in the lifetime of Archbishop Stephen Langton."
+,"In Italy, by a departure from the traditional policy of the Roman Church, the newly formed 'Pious Society of St Jerome for the Dissemination of the Holy Gospels' issued in 1901 from the Vatican press a new Italian version of the Four Gospels and Acts."
+,"Another defect in the evidence of coins is that, when one variety of the unit of weight was once fixed on for the coinage, there was (barring the depreciation) no departure from it, because of the need of a fixed value, and hence coins do not show the range and character of the real variations of units as do buildings, or vases, or the actual commercial weights."
+,"The social war (90-89 B.C.) had been brought to a close by the enfranchisement of Rome's Italian subjects; and the civil war which followed it led, after the departure of Sulla for the East, to the temporary triumph of the populares, led by Marius and Cinna, and the indiscriminate massacre of their political opponents, including both of Caesar's uncles."
+,"As a point of departure for the history of the development of Gnosticism may be taken the numerous little sects which were apparently first included under the name of ' Gnostics ' in the narrower sense."
+,"Between these rivers the boundary line is determined by the peaks of Tacana, Buenavista and Ixbul, and from the Usumacinta eastward it follows two parallels of latitude, one on the point of departure from that river, and the other, the longer, on that of 1 7° 49' to the British Honduras frontier."
+,"The translation of these Gospels as well as of the Epistles referred to above is stiff and awkward, the translator being evidently afraid of any departure from the Latin text of his original."
+,"The natives cheerfully accepted this new departure in British policy, and from this time forward Khama's country was known as the British protectorate of Bechuanaland."
+,"Previous to his departure for England, Henry bestowed the government on Hugh de Lacy, having granted by charter 'to his subjects of Bristol his city of Dublin to inhabit, and to hold of him and his heirs for ever, with all the liberties and free customs which his subjects of Bristol then enjoyed at Bristol and through all England."
+,"On his departure from Norway in 1000, the king commissioned him to proclaim Christianity in Greenland."
+,"This passion finds its clearest expression in the Latin poems. Faustine was guarded by an old and jealous husband, and du Bellay's eventual conquest may have had something to do with his departure for Paris at the end of August 1557."
+,"REMONSTRANTS, the name given to those Dutch Protestants who, after the death of Arminius, maintained the views associated with his name, and in 1610 presented to the states of Holland and Friesland a ' remonstrance in five articles formulating their points of departure from stricter Calvinism.'"
+,"The self-contradictory character of the present world forms the point of departure for Mani's speculations."
+,"The departure of the Ordovician life from that of the Cambrian was perhaps most pronounced in the great development of the molluscs and crinoids (including cystoids), but corals were also abundant for the first time, and graptolites came into prominence."
+,"A similar plan, differing in some details, was subsequently introduced in the city of Des Moines, in Iowa; and the success which has attended this new departure in both cities has led to its adoption in many others, especially, but not exclusively,in the Western states."
+,"After the departure of Agamemnon to the Trojan war, Aegisthus seduced his wife Clytaemnestra (more correctly Clytaemestra) and with her assistance slew him on his return."
+,"The size and character of this house, probably, at the time of its erection, the most spacious house of a subject in the kingdom, not a castle, bespeaks the wide departure of the Cistercian order from the stern simplicity of the original foundation."
+,"A new departure, however, was made by Willebrord Snell of Leiden in his Cyclometria, published in 1621."
+,"On the landing of Pyrrhus in Italy (281 B.C.) they were among the first to declare in his favour, and found themselves exposed to the resentment of Rome when the departure of Pyrrhus left his allies at the mercy of the Romans."
+,"His departure was accelerated by a decree of expulsion as a conspirator (1811)."
+,"On Lord Ripon's departure from India in November 1884 there were extraordinary manifestations in his favour on the part of the Hindu population of Bengal and Bombay, and more than a thousand addresses were presented to him."
+,"Aristotle'S Life This account is practically repeated by Diogenes Laertius in his Life of Aristotle, on the authority of the Chronicles of Apollodorus, who lived in the 2nd century B.C. Starting then from this tradition, near enough to the time, we can confidently divide Aristotle's career into four periods: his youth under his parents till his eighteenth year; his philosophical education under Plato at Athens till his thirty-eighth year; his travels in the Greek world till his fiftieth year; and his philosophical teaching in the Lyceum till his departure to Chalcis and his death in his sixtythird year."
+,"He rejected the Platonic hypothesis of forms, and affirmed that they are not separate but common, without however as yet having advanced to a constructive metaphysics of his own; while at the same time, after having at first adopted his master's dialectical treatment of metaphysical problems, he soon passed from dialogues to didactic works,, which had the result of separating metaphysics from dialectic. The all-important consequence of this first departure from Platonism was that Aristotle became and remained primarily a metaphysician."]
