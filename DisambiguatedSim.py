@@ -2,6 +2,7 @@ import sentences
 import nltk
 
 sentences = sentences.sentences
+print(len(sentences))
 splitSentences = [sentence.split() for sentence in sentences]
 sentences = [word for sentence in splitSentences for word in sentence] 
 
