@@ -53,12 +53,12 @@ d_corpus.extend(d_sentences_list)
 model = Word2Vec(corpus)
 d_model = Word2Vec(d_corpus)
 
-d0 = wn.synsets('departure')[0]
-d1 = wn.synsets('departure')[1]
-d2 = wn.synsets('departure')[2]
-dl = [d0,d1,d2]
+#list of synsets for departure
+dl = wn.synsets('departure')
+#the disambiguated words that match each synset
 wl = ['departure1', 'departure2', 'departure3']
 
+#print results
 for i in range(len(dl)):
     for j in range(len(wl)):
         print(dl[i], dl[j], 'Shortest path: ', dl[i].shortest_path_distance(dl[j]), 'Word2Vec distance: ', d_model.wv.distance(wl[i], wl[j]))
