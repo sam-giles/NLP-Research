@@ -6,6 +6,8 @@ import time
 from nltk.corpus import wordnet as wn
 import string
 from nltk.corpus import stopwords
+import similarity
+import numpy
 
 def preprocessCorpus(corpus):
     #remove stopwords
@@ -19,6 +21,38 @@ def preprocessCorpus(corpus):
     corpus = [[word.translate(str.maketrans('', '', string.punctuation)) for word in sentence] for sentence in corpus]
 
     return corpus
+
+def generateDistance(distance, token, tokenSet, model):
+    similarities = {}
+    similarities['Distance'] = distance
+    similarities['Set Size'] = len(tokenSet)
+    if len(tokenSet) == 0:
+        similarities['Mean'] = None
+        similarities['Min'] = None
+        similarities['Max'] = None
+        similarities['Standard Deviation'] = None
+        return similarities
+    #compare each word to each word in the other synset
+    simList = []
+    for tok in tokenSet:
+        try:
+            sim = model.wv.distance(token, tok)
+            simList.append(sim)
+        except:
+            pass
+
+    vals = numpy.array(simList)
+    avg = numpy.mean(vals)
+    minimum = numpy.amin(vals)
+    maximum = numpy.amax(vals)
+    stdev = numpy.std(vals)
+
+    similarities['Mean'] = avg
+    similarities['Min'] = minimum
+    similarities['Max'] = maximum
+    similarities['Standard Deviation'] = stdev
+
+    return similarities
 
 start_time = time.time()
 
@@ -61,10 +95,14 @@ wl = ['departure1', 'departure2', 'departure3']
 #print results
 for i in range(len(dl)):
     for j in range(len(wl)):
-        print(dl[i], dl[j], 'Shortest path: ', dl[i].shortest_path_distance(dl[j]), 'Word2Vec distance: ', d_model.wv.distance(wl[i], wl[j]))
+        print(dl[i], dl[j], 'Shortest path:', dl[i].shortest_path_distance(dl[j]), 'Word2Vec distance:', d_model.wv.distance(wl[i], wl[j]))
 
-# for i in range(len(dl)):
-#     for j in range(len(wl)):
-#         print(dl[i], dl[j], 'Shortest path: ', dl[i].shortest_path_distance(dl[j]), 'Word2Vec distance: ', model.wv.distance(wl[i], wl[j]))
+distanceLists = similarity.readDistanceListsFromFile('departure_distance_lists.txt', 'departure')
+
+dis4 = generateDistance(4, 'departure', distanceLists[4], model)
+dis6 = generateDistance(6, 'departure', distanceLists[6], model)
+
+print(dis4)
+print(dis6)
 
 print("Total execution time:", time.time()-start_time)
