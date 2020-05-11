@@ -1,6 +1,8 @@
 import spacy
 import time
 import numpy
+import ast
+import matplotlib.pyplot as plt 
 
 #convert the file output back to a dictionary of lists
 def readDistanceListsFromFile(filename, word):
@@ -59,6 +61,34 @@ def writeSimilaritiesToFile(similarities, filename, word):
         f.write(str(item) + '\n')
     f.close()
 
+def generateGraphFromSimilarity(word):
+    file = open(word + '/' + word + '_similarities.txt', "r")
+    contents = file.readlines()
+    dicts = []
+    for i in range(len(contents)):
+        dicts.append(ast.literal_eval(contents[i]))
+    distances = [item['Distance'] for item in dicts]
+    means = [item['Mean'] for item in dicts]
+
+    # x axis values 
+    x = distances 
+    # corresponding y axis values 
+    y = means
+    
+    # plotting the points  
+    plt.plot(x, y) 
+    
+    # naming the x axis 
+    plt.xlabel('Distance') 
+    # naming the y axis 
+    plt.ylabel('Mean Similarity') 
+    
+    # giving a title to my graph 
+    plt.title('Mean Similarity for "' + word + '" Over Distance') 
+    
+    # save the plot
+    plt.savefig(word + '/' + word + '_graph_part1.png')
+    
 
 ###########
 ##MAIN

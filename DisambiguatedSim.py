@@ -75,8 +75,8 @@ corpus = preprocessCorpus(corpus)
 d_corpus = corpus.copy()
 
 #only use the first 20% of each corpus for speed
-# corpus = corpus[:int(len(corpus)/5)]
-# d_corpus = d_corpus[:int(len(d_corpus)/5)]
+corpus = corpus[:int(len(corpus)/5)]
+d_corpus = d_corpus[:int(len(d_corpus)/5)]
 
 #add sentences
 corpus.extend(sentences_list)
